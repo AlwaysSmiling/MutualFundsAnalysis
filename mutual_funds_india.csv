@@ -1,0 +1,1096 @@
+,AMC_name,Mutual Fund Name,category,risk_type,fund_rating,return_1yr,return_3yr,return_5yr
+0,Quant,Quant Small Cap Fund Direct Plan Growth,Equity,Very High Risk,5.0,7.21,52.99,24.68
+1,Quant,Quant Infrastructure Fund Direct Growth,Equity,Very High Risk,5.0,13.54,40.54,20.56
+2,ICICI,ICICI Prudential Commodities Fund Direct Growth,Equity,High Risk,,13.89,40.39,
+3,Quant,Quant Tax Plan Direct Growth,Equity,Very High Risk,5.0,10.8,39.2,22.33
+4,Quant,Quant Flexi Cap Fund Direct Growth,Equity,Very High Risk,,10.06,37.14,18.56
+5,Quant,Quant Mid Cap Fund Direct Growth,Equity,Very High Risk,5.0,18.23,35.98,20.7
+6,Bank,Bank of India Small Cap Fund Direct Growth,Equity,Very High Risk,4.0,-2.32,35.53,
+7,Quant,Quant Active Fund Direct Growth,Equity,Very High Risk,,9.61,35.48,21.19
+8,Canara,Canara Robeco Small Cap Fund Direct Growth,Equity,Very High Risk,5.0,3.15,35.09,
+9,PGIM,PGIM India Midcap Opportunities Fund Direct Growth,Equity,Very High Risk,5.0,-1.37,32.83,17.64
+10,ICICI,ICICI Prudential Technology Direct Plan Growth,Equity,Very High Risk,,-14.58,32.16,22.84
+11,Quant,Quant Multi Asset Fund Direct Growth,Hybrid,Very High Risk,5.0,13.11,31.76,21.76
+12,Nippon,Nippon India Small Cap Fund Direct Growth,Equity,Very High Risk,4.0,5.15,31.61,14.57
+13,Quant,Quant Absolute Fund Direct Growth,Hybrid,Very High Risk,5.0,13.14,30.5,18.82
+14,Tata,Tata Small Cap Fund Direct Growth,Equity,Very High Risk,3.0,8.52,30.49,
+15,Edelweiss,Edelweiss Small Cap Fund Direct Growth,Equity,Very High Risk,4.0,2.29,30.45,
+16,SBI,SBI Contra Direct Plan Growth,Equity,Very High Risk,5.0,13.81,30.28,13.58
+17,Kotak,Kotak Small Cap Fund Direct Growth,Equity,Very High Risk,4.0,-3.05,28.7,15.4
+18,Tata,Tata Digital India Fund Direct Growth,Equity,Very High Risk,,-13.64,28.68,22.91
+19,Aditya,Aditya Birla Sun Life Digital India Fund Direct Growth,Equity,Very High Risk,,-12.71,28.53,21.54
+20,SBI,SBI Technology Opportunities Fund Direct Growth,Equity,Very High Risk,,-4.38,28.02,22.14
+21,ICICI,ICICI Prudential Smallcap Fund Direct Plan Growth,Equity,Very High Risk,4.0,5.36,27.17,13.14
+22,SBI,SBI Small Cap Fund Direct Growth,Equity,Very High Risk,4.0,4.63,26.69,13.09
+23,Bank,Bank of India Manufacturing & Infrastructure Direct Growth,Equity,Very High Risk,4.0,3.3,26.23,10.58
+24,ICICI,ICICI Prudential Infrastructure Direct Growth,Equity,Very High Risk,4.0,24.31,26.09,12.54
+25,DSP,DSP Small Cap Direct Plan Growth,Equity,Very High Risk,2.0,-1.68,26.05,10.19
+26,HDFC,HDFC Small Cap Fund Direct Growth,Equity,Very High Risk,3.0,4.27,26.02,12.12
+27,HSBC,HSBC Small Cap Fund Direct Growth,Equity,Very High Risk,3.0,-0.99,25.99,10.94
+28,Quant,Quant Large and Mid Cap Fund Direct Growth,Equity,Very High Risk,5.0,14.59,25.91,14.6
+29,HSBC,HSBC Small Cap Equity Fund Direct Growth,Equity,Very High Risk,2.0,-8.76,25.58,7.62
+30,Invesco,Invesco India Smallcap Fund Direct Growth,Equity,Very High Risk,3.0,0.04,25.34,
+31,Principal,Principal Global Opportunities Fund Direct Growth,Other,Very High Risk,1.0,27.05,25.29,17.49
+32,DSP,DSP World Mining Fund Direct Plan Growth,Other,Very High Risk,,11.88,25.14,15.8
+33,DSP,DSP Healthcare Fund Direct Growth,Equity,Very High Risk,,0.97,25.12,
+34,ICICI,ICICI Prudential Value Discovery Direct Growth,Equity,Very High Risk,4.0,13.76,25.11,13.94
+35,Tata,Tata Resources & Energy Fund Direct Growth,Equity,Very High Risk,,0.18,25.05,13.98
+36,ICICI,ICICI Prudential India Opportunities Fund Direct Growth,Equity,Very High Risk,,17.09,25.04,
+37,Axis,Axis Small Cap Fund Direct Growth,Equity,Very High Risk,5.0,2.26,25.02,18.42
+38,Sundaram,Sundaram Small Cap Fund Direct Growth,Equity,Very High Risk,2.0,-1.66,24.76,7.38
+39,Mirae,Mirae Asset Healthcare Fund Direct Growth,Equity,Very High Risk,,-5.34,24.75,
+40,SBI,SBI Magnum Mid Cap Direct Plan Growth,Equity,Very High Risk,4.0,0.02,24.68,11.57
+41,Union,Union Small Cap Fund Direct Growth,Equity,Very High Risk,3.0,-3.89,24.6,11.26
+42,IDBI,IDBI Small Cap Fund Direct Growth,Equity,Very High Risk,3.0,-0.61,24.58,11.13
+43,HSBC,HSBC Infrastructure Equity Fund Direct Growth,Equity,Very High Risk,1.0,9.17,24.41,3.43
+44,IDFC,IDFC Sterling Value Fund Direct Plan Growth,Equity,Very High Risk,3.0,3.09,24.37,10.47
+45,Mirae,Mirae Asset Midcap Fund Direct Growth,Equity,Moderately High Risk,4.0,3.66,24.11,
+46,Parag,Parag Parikh Tax Saver Fund Direct Growth,Equity,Moderately High Risk,5.0,7.68,24.08,
+47,Templeton,Templeton India Equity Income Direct Plan Growth,Equity,Very High Risk,,7.44,23.84,12.68
+48,ICICI,ICICI Prudential Dividend Yield Equity Fund Direct Growth,Equity,Very High Risk,,11.22,23.61,10.51
+49,Baroda,Baroda Midcap Direct Fund Growth,Equity,Very High Risk,4.0,27.49,23.56,16.94
+50,ICICI,ICICI Prudential Thematic Advantage Fund (FOF)Direct Growth,Other,Very High Risk,,6.73,23.54,15.15
+51,Quant,Quant Focused Fund Direct Growth,Equity,Very High Risk,5.0,10.67,23.48,13.32
+52,Templeton,Templeton India Value Fund Direct Plan Growth,Equity,Very High Risk,3.0,13.11,23.42,10.58
+53,Edelweiss,Edelweiss Mid Cap Direct Plan Growth,Equity,Very High Risk,4.0,2.34,23.42,11.93
+54,Bank,Bank of India Mid & Small Cap Equity & Debt Fund Direct Growth,Hybrid,Very High Risk,4.0,-3.49,23.4,9.84
+55,SBI,SBI Healthcare Opportunities Fund Direct Plan Growth,Equity,Very High Risk,,1.1,23.21,12.18
+56,HDFC,HDFC Mid Cap Opportunities Direct Plan Growth,Equity,Very High Risk,3.0,11.16,23.2,11.91
+57,DSP,DSP Natural Resources and New Energy Fund Direct Plan Growth,Equity,Very High Risk,,8.65,23.14,11.09
+58,HDFC,HDFC Retirement Savings Fund Equity Plan Direct Growth,Solution Oriented,Very High Risk,5.0,9.61,23.03,13.51
+59,Motilal,Motilal Oswal Midcap Fund Direct Growth,Equity,Very High Risk,4.0,10.73,23.02,14.55
+60,Franklin,Franklin India Smaller Companies Direct Fund Growth,Equity,Very High Risk,2.0,2.25,22.98,9.17
+61,Nippon,Nippon India Pharma Fund Direct Growth,Equity,Very High Risk,,-1.85,22.93,14.89
+62,Aditya,Aditya Birla Sun Life PSU Equity Fund Direct Growth,Equity,Very High Risk,,24.66,22.81,
+63,Principal,Principal Emerging Bluechip Fund Direct Growth,Equity,Very High Risk,4.0,41.77,22.81,20.68
+64,Canara,Canara Robeco Infrastructure Direct Growth,Equity,Very High Risk,4.0,7.31,22.78,10.56
+65,IDFC,IDFC Tax Advantage (ELSS) Direct Plan Growth,Equity,Very High Risk,4.0,3.91,22.77,11.88
+66,PGIM,PGIM India Flexi Cap Fund Direct Growth,Equity,Very High Risk,5.0,-5.04,22.68,14.49
+67,ICICI,ICICI Prudential MNC Fund Direct Growth,Equity,High Risk,,0.8,22.62,
+68,Invesco,Invesco India Infrastructure Fund Direct Growth,Equity,Very High Risk,5.0,2.98,22.58,12.51
+69,Mahindra,Mahindra Manulife Multi Cap Badhat Yojana Direct Growth,Equity,Very High Risk,5.0,1.14,22.45,14.62
+70,Bank,Bank of India Tax Advantage Direct Growth,Equity,Very High Risk,4.0,0.2,22.43,12.45
+71,Parag,Parag Parikh Flexi Cap Fund Direct Growth,Equity,Very High Risk,5.0,-1.53,22.36,16.05
+72,Kotak,Kotak Infrastructure and Economic Reform Fund Direct Growth,Equity,Very High Risk,4.0,14.0,22.31,10.72
+73,ICICI,ICICI Prudential Pharma Healthcare And Diagnostics (P.H.D) Fund Direct Growth,Equity,Very High Risk,,-2.77,22.22,
+74,Tata,Tata India Pharma & HealthCare Fund Direct Growth,Equity,Very High Risk,,-0.35,22.14,14.56
+75,Nippon,Nippon India Growth Fund Direct Growth,Equity,Very High Risk,4.0,4.57,22.01,12.85
+76,Mahindra,Mahindra Manulife Mid Cap Unnati Yojana Direct Growth,Equity,Very High Risk,3.0,0.68,21.95,
+77,ICICI,ICICI Prudential Focused Equity Fund Direct Growth,Equity,Very High Risk,4.0,6.94,21.86,12.87
+78,Kotak,Kotak Emerging Equity Fund Direct Growth,Equity,Very High Risk,4.0,4.06,21.75,13.58
+79,Nippon,Nippon India Consumption Fund Direct Growth,Equity,Very High Risk,5.0,10.95,21.73,12.85
+80,UTI,UTI Mid Cap Fund Direct Growth,Equity,Very High Risk,3.0,-1.42,21.66,10.38
+81,Tata,Tata Infrastructure Direct Plan Growth,Equity,Very High Risk,4.0,5.9,21.66,10.14
+82,Motilal,Motilal Oswal Nifty Midcap 150 Index Fund Direct Growth,Other,Moderately High Risk,3.0,2.58,21.64,
+83,ICICI,ICICI Prudential Manufacturing Fund Direct Growth,Equity,Very High Risk,,6.96,21.52,
+84,JM,JM Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,4.0,7.16,21.5,10.33
+85,Mahindra,Mahindra Manulife Top 250 Nivesh Yojana Direct Growth,Equity,Moderately High Risk,2.0,1.69,21.45,
+86,HDFC,HDFC Focused 30 Fund Direct Plan Growth,Equity,Very High Risk,3.0,18.64,21.44,9.98
+87,Motilal,Motilal Oswal Nifty Smallcap 250 Index Fund Direct Growth,Other,Moderately High Risk,2.0,-7.12,21.41,
+88,DSP,DSP The Infrastructure Growth and Economic Reforms Regular Fund Direct Growth,Equity,Very High Risk,3.0,13.42,21.31,9.98
+89,ICICI,ICICI Prudential Large & Mid Cap Fund Direct Plan Growth,Equity,Very High Risk,3.0,10.22,21.11,12.31
+90,Nippon,Nippon India Power & Infra Fund Direct Growth,Equity,Very High Risk,3.0,11.33,21.07,7.12
+91,HDFC,HDFC Flexi Cap Direct Plan Growth,Equity,Very High Risk,3.0,16.21,20.83,11.87
+92,Baroda,Baroda BNP Paribas Midcap Direct Growth,Equity,Very High Risk,3.0,1.66,20.81,11.1
+93,IDFC,IDFC Infrastructure Direct Plan Growth,Equity,Very High Risk,2.0,2.19,20.74,6.14
+94,SBI,SBI Magnum COMMA Fund Direct Growth,Equity,Very High Risk,,-9.04,20.67,9.84
+95,Kotak,Kotak Multi Asset Allocator FoF Dynamic Direct Growth,Other,High Risk,,11.05,20.5,15.75
+96,Canara,Canara Robeco Equity Tax Saver Direct Growth,Equity,Very High Risk,5.0,-0.22,20.38,14.85
+97,ICICI,ICICI Prudential Midcap Direct Plan Growth,Equity,Very High Risk,3.0,4.33,20.38,10.39
+98,ICICI,ICICI Prudential Equity & Debt Fund Direct Growth,Hybrid,Very High Risk,5.0,9.44,20.33,13.42
+99,Aditya,Aditya Birla Sun Life Infrastructure Direct Fund Growth,Equity,Very High Risk,2.0,7.96,20.33,7.27
+100,Franklin,Franklin Build India Direct Fund Growth,Equity,Very High Risk,3.0,9.56,20.31,11.18
+101,ICICI,ICICI Prudential Multi Asset Fund Direct Growth,Hybrid,Very High Risk,4.0,13.32,20.29,13.2
+102,Invesco,Invesco India Mid Cap Fund Direct Growth,Equity,Very High Risk,4.0,0.15,20.22,12.86
+103,PGIM,PGIM India ELSS Tax Saver Fund Direct Growth,Equity,Very High Risk,4.0,4.45,20.15,12.82
+104,UTI,UTI Healthcare Fund Direct Growth,Equity,Very High Risk,,-5.92,20.1,11.22
+105,SBI,SBI Consumption Opportunities Fund Direct Growth,Equity,Very High Risk,3.0,10.51,19.96,11.66
+106,Kotak,Kotak Pioneer Fund Direct Growth,Equity,Very High Risk,,-3.95,19.9,
+107,Sundaram,Sundaram Services Fund Direct Growth,Equity,Very High Risk,,2.49,19.88,
+108,Franklin,Franklin India Technology Fund Direct Growth,Equity,Very High Risk,,-15.51,19.8,16.51
+109,Nippon,Nippon India Focused Equity Fund Direct Growth,Equity,Very High Risk,3.0,4.23,19.72,9.98
+110,ICICI,ICICI Prudential BHARAT 22 FOF Direct Growth,Other,Very High Risk,4.0,25.38,19.71,
+111,Nippon,Nippon India Value Fund Direct Growth,Equity,Very High Risk,3.0,3.48,19.65,10.72
+112,HDFC,HDFC Large and Mid Cap Fund Direct Growth,Equity,Very High Risk,3.0,7.46,19.64,11.6
+113,Tata,Tata Ethical Direct Plan Growth,Equity,Very High Risk,,-2.84,19.55,11.81
+114,Franklin,Franklin India Focused Equity Fund Direct Growth,Equity,Very High Risk,3.0,7.94,19.55,11.92
+115,SBI,SBI Infrastructure Fund Direct Growth,Equity,Very High Risk,4.0,7.78,19.5,10.58
+116,Franklin,Franklin India Flexi Cap Fund Direct Growth,Equity,Very High Risk,4.0,3.98,19.45,11.1
+117,BNP,BNP Paribas Multi Cap Fund Direct Growth,Equity,Very High Risk,,20.46,19.42,15.26
+118,Nippon,Nippon India Multi Cap Fund Direct Growth,Equity,Very High Risk,,11.85,19.38,10.98
+119,Taurus,Taurus Discovery (Midcap) Fund Direct Growth,Equity,Very High Risk,3.0,4.05,19.28,10.63
+120,IIFL,IIFL Focused Equity Fund Direct Growth,Equity,Very High Risk,5.0,0.82,19.26,16.06
+121,ICICI,ICICI Prudential Retirement Fund Pure Equity Plan Direct Growth,Solution Oriented,Moderately High Risk,5.0,2.92,19.22,
+122,SBI,SBI Large & Midcap Fund Direct Plan Growth,Equity,Very High Risk,5.0,5.29,19.2,11.91
+123,HSBC,HSBC Value Fund Direct Growth,Equity,Very High Risk,3.0,4.69,19.07,9.7
+124,Mahindra,Mahindra Manulife ELSS Kar Bachat Yojana Direct Growth,Equity,Very High Risk,3.0,2.28,19.06,10.57
+125,DSP,DSP Nifty 50 Equal Weight Index Fund Direct Growth,Other,Very High Risk,3.0,6.4,18.94,9.99
+126,Mirae,Mirae Asset Tax Saver Fund Direct Growth,Equity,Very High Risk,5.0,0.47,18.9,13.74
+127,Mirae,Mirae Asset Emerging Bluechip Fund Direct Growth,Equity,Very High Risk,5.0,-1.54,18.9,13.43
+128,Aditya,Aditya Birla Sun Life Dividend Yield Fund Direct Growth,Equity,Very High Risk,,9.99,18.87,8.72
+129,Invesco,Invesco India PSU Equity Fund Direct Growth,Equity,Very High Risk,,19.36,18.86,10.77
+130,Tata,Tata Midcap Growth Direct Plan Growth,Equity,Very High Risk,3.0,0.29,18.76,11.37
+131,Canara,Canara Robeco Consumer Trends Fund Direct Growth,Equity,Very High Risk,4.0,4.09,18.55,14.07
+132,ICICI,ICICI Prudential Exports and Services Fund Direct Growth,Equity,Very High Risk,,8.17,18.42,10.94
+133,Union,Union Long Term Equity Fund Direct Growth,Equity,Very High Risk,4.0,1.58,18.41,11.66
+134,Axis,Axis Midcap Direct Plan Growth,Equity,Very High Risk,5.0,-5.21,18.35,14.95
+135,HDFC,HDFC Balanced Advantage Fund Direct Plan Growth,Hybrid,Very High Risk,3.0,17.09,18.24,11.03
+136,Mahindra,Mahindra Manulife Hybrid Equity Nivesh Yojana Direct Growth,Hybrid,Moderately High Risk,4.0,4.28,18.23,
+137,Nippon,Nippon India Quant Fund Retail Direct Growth,Equity,Very High Risk,,6.79,18.22,11.15
+138,Edelweiss,Edelweiss Large & Mid Cap Direct Plan Growth,Equity,Very High Risk,5.0,1.86,18.19,12.41
+139,DSP,DSP Tax Saver Direct Plan Growth,Equity,Very High Risk,4.0,4.13,18.15,12.19
+140,Canara,Canara Robeco Emerging Equities Fund Direct Growth,Equity,Very High Risk,4.0,-1.9,18.14,11.33
+141,Baroda,Baroda BNP Paribas Multi Cap Fund Direct Growth,Equity,Very High Risk,4.0,-1.1,18.09,10.72
+142,Sundaram,Sundaram Select Focus Fund Direct Growth,Equity,Very High Risk,5.0,25.71,18.04,18.5
+143,SBI,SBI Long Term Equity Fund Direct Plan Growth,Equity,Very High Risk,3.0,7.79,18.04,9.84
+144,Axis,Axis Growth Opportunities Fund Direct Growth,Equity,Very High Risk,4.0,-8.68,17.98,
+145,UTI,UTI Core Equity Fund Direct Growth,Equity,Very High Risk,2.0,4.81,17.96,9.38
+146,Kotak,Kotak India EQ Contra Fund Direct Growth,Equity,Very High Risk,4.0,7.78,17.91,13.74
+147,Sundaram,Sundaram Infrastructure Advantage Fund Direct Growth,Equity,Very High Risk,3.0,0.81,17.89,6.71
+148,SBI,SBI Equity Minimum Variance Fund Direct Growth,Equity,Very High Risk,,8.05,17.89,
+149,Invesco,Invesco India Contra Fund Direct Growth,Equity,Very High Risk,4.0,4.0,17.85,11.48
+150,Aditya,Aditya Birla Sun Life Small Cap Fund Direct Growth,Equity,Very High Risk,1.0,-5.75,17.84,4.22
+151,IDBI,IDBI Long Term Value Fund Direct Growth,Equity,Very High Risk,2.0,5.19,17.84,
+152,Union,Union Large & Midcap Fund Direct Growth,Equity,Moderately High Risk,4.0,-1.78,17.78,
+153,Invesco,Invesco India Multicap Fund Direct Growth,Equity,Very High Risk,,-0.73,17.77,9.55
+154,Kotak,Kotak Tax Saver Fund Direct Growth,Equity,Very High Risk,4.0,5.76,17.76,13.12
+155,UTI,UTI Transportation and Logistics Fund Direct Growth,Equity,Very High Risk,,11.32,17.7,4.48
+156,Union,Union Flexi Cap Fund Direct Growth,Equity,Very High Risk,4.0,-0.73,17.66,12.1
+157,IDFC,IDFC Core Equity Fund Direct Growth,Equity,Very High Risk,3.0,6.92,17.65,10.28
+158,Tata,Tata Focused Equity Fund Direct Growth,Equity,Very High Risk,3.0,4.74,17.65,
+159,JM,JM Value Fund Direct Plan Growth,Equity,Very High Risk,2.0,6.1,17.64,10.65
+160,Aditya,Aditya Birla Sun Life Pharma & Healthcare Fund Direct Growth,Equity,High Risk,,-5.37,17.64,
+161,Baroda,Baroda Equity Linked Saving Scheme 96 Direct Growth,Equity,Very High Risk,3.0,18.49,17.55,12.53
+162,Motilal,Motilal Oswal Large and Midcap Fund Direct Growth,Equity,Moderately High Risk,4.0,0.17,17.5,
+163,Union,Union Focused Fund Direct Growth,Equity,Moderately High Risk,4.0,-0.58,17.45,
+164,HDFC,HDFC Capital Builder Value Fund Direct Plan Growth,Equity,Very High Risk,2.0,4.34,17.44,8.86
+165,Tata,Tata Large & Mid Cap Fund Direct Plan Growth,Equity,Very High Risk,4.0,8.92,17.41,12.26
+166,JM,JM Flexicap Fund Direct Plan Growth,Equity,Very High Risk,3.0,5.71,17.39,12.52
+167,Franklin,Franklin India Opportunities Direct Fund Growth,Equity,Very High Risk,,-1.74,17.38,8.7
+168,Mirae,Mirae Asset Focused Fund Direct Growth,Equity,Very High Risk,4.0,-5.67,17.28,
+169,Canara,Canara Robeco Flexi Cap Fund Direct Growth,Equity,Very High Risk,4.0,-1.49,17.27,13.14
+170,Kotak,Kotak Equity Opportunities Fund Direct Growth,Equity,Very High Risk,4.0,6.11,17.21,12.51
+171,HDFC,HDFC Taxsaver Direct Plan Growth,Equity,Very High Risk,2.0,12.33,17.2,8.27
+172,IDBI,IDBI India Top 100 Equity Fund Direct Growth,Equity,Very High Risk,4.0,2.54,17.18,11.64
+173,Bank,Bank of India Large & Mid Cap Equity Fund Direct Growth,Equity,Very High Risk,2.0,2.01,17.14,8.38
+174,Sundaram,Sundaram Equity Hybrid Fund Direct Growth,Hybrid,High Risk,4.0,30.11,17.11,15.7
+175,Sundaram,Sundaram Large and Mid Cap Fund Direct Growth,Equity,Very High Risk,3.0,-0.73,17.09,10.21
+176,IDBI,IDBI Healthcare Fund Direct Growth,Equity,High Risk,,-5.7,17.08,
+177,Sundaram,Sundaram Dividend Yield Fund Direct Growth,Equity,Very High Risk,,1.94,17.04,10.22
+178,Sundaram,Sundaram Diversified Equity Fund Direct Growth,Equity,Very High Risk,2.0,31.78,17.03,14.26
+179,UTI,UTI Value Opportunities Fund Direct Growth,Equity,Very High Risk,4.0,3.69,17.02,11.71
+180,Edelweiss,Edelweiss Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,2.24,16.95,11.06
+181,Sundaram,Sundaram Focused Fund Direct Growth,Equity,Very High Risk,4.0,-1.59,16.9,11.94
+182,IDBI,IDBI Dividend Yield Fund Direct Growth,Equity,Very High Risk,,-0.05,16.9,
+183,Sundaram,Sundaram Multi Cap Fund Direct Growth,Equity,Very High Risk,,-2.55,16.9,8.42
+184,HDFC,HDFC Infrastructure Direct Plan Growth,Equity,Very High Risk,1.0,16.15,16.86,1.71
+185,Kotak,Kotak Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,4.0,4.95,16.84,11.79
+186,HSBC,HSBC Infrastructure Fund Direct Growth,Equity,Very High Risk,3.0,2.67,16.82,6.58
+187,ICICI,ICICI Prudential Bluechip Fund Direct Growth,Equity,Very High Risk,4.0,6.1,16.78,11.35
+188,Edelweiss,Edelweiss Recently Listed IPO Fund Direct Growth,Equity,Very High Risk,,-19.51,16.77,
+189,Aditya,Aditya Birla Sun Life Pure Value Direct Fund Growth,Equity,Very High Risk,1.0,1.77,16.75,2.54
+190,IDBI,IDBI Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,-1.31,16.75,11.12
+191,Navi,Navi Large & Midcap Fund Direct Growth,Equity,Very High Risk,3.0,-0.19,16.72,11.04
+192,Franklin,Franklin India Taxshield Direct Growth,Equity,Very High Risk,3.0,4.16,16.71,10.49
+193,SBI,SBI Magnum Global Direct Plan Growth,Equity,Very High Risk,,-1.25,16.7,9.48
+194,Canara,Canara Robeco Bluechip Equity Fund Direct Growth,Equity,Very High Risk,5.0,1.37,16.68,13.89
+195,Edelweiss,Edelweiss Aggressive Hybrid Fund Direct Growth,Hybrid,Very High Risk,4.0,7.26,16.64,11.76
+196,Taurus,Taurus Ethical Fund Direct Growth,Equity,Very High Risk,,0.11,16.63,11.58
+197,HSBC,HSBC Tax Saver Equity Fund Direct Growth,Equity,Very High Risk,2.0,4.18,16.59,9.8
+198,UTI,UTI Dividend Yield Fund Direct Growth,Equity,Very High Risk,,-1.01,16.59,10.36
+199,Nippon,Nippon India Large Cap Fund Direct Growth,Equity,Very High Risk,3.0,10.96,16.54,10.75
+200,SBI,SBI PSU Direct Plan Growth,Equity,Very High Risk,,24.11,16.53,5.64
+201,LIC,LIC MF Infrastructure Fund Direct Growth,Equity,Very High Risk,3.0,4.38,16.41,9.51
+202,HDFC,HDFC Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3.0,8.41,16.37,10.53
+203,Aditya,Aditya Birla Sun Life Mid Cap Direct Fund Growth,Equity,Very High Risk,1.0,-5.5,16.33,6.68
+204,UTI,UTI Hybrid Equity Fund Direct Fund Growth,Hybrid,Very High Risk,3.0,6.05,16.31,8.95
+205,Taurus,Taurus Infrastructure Fund Direct Growth,Equity,Very High Risk,3.0,2.2,16.31,8.12
+206,Tata,Tata India Tax Savings Fund Direct Growth,Equity,Very High Risk,3.0,4.8,16.29,10.87
+207,JM,JM Tax Gain Direct Plan Growth,Equity,Very High Risk,3.0,-0.61,16.12,12.07
+208,DSP,DSP Equity Opportunities Direct Plan Growth,Equity,Very High Risk,3.0,4.97,16.12,10.51
+209,Baroda,Baroda BNP Paribas Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,4.0,5.32,16.09,
+210,Sundaram,Sundaram Smart NIFTY 100 Equal Weight Fund Direct Growth,Other,Very High Risk,2.0,34.35,16.08,
+211,ICICI,ICICI Prudential Multicap Fund Direct Plan Growth,Equity,Very High Risk,,4.21,16.06,11.04
+212,Motilal,Motilal Oswal Nifty 500 Index Fund Direct Growth,Other,Moderately High Risk,3.0,2.21,16.04,
+213,HDFC,HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth,Solution Oriented,Very High Risk,4.0,5.96,16.02,11.26
+214,Tata,Tata Equity PE Fund Direct Growth,Equity,Very High Risk,2.0,6.76,15.97,9.15
+215,Quantum,Quantum India ESG Equity Fund Direct Growth,Equity,High Risk,,-0.64,15.96,
+216,HDFC,HDFC Top 100 Fund Direct Plan Growth,Equity,Very High Risk,2.0,10.1,15.95,9.95
+217,SBI,SBI Bluechip Direct Plan Growth,Equity,Very High Risk,3.0,5.14,15.92,10.81
+218,Kotak,Kotak Bluechip Fund Direct Growth,Equity,Very High Risk,5.0,2.9,15.9,11.66
+219,Mirae,Mirae Asset Great Consumer Fund Direct Growth,Equity,Very High Risk,3.0,6.13,15.9,12.29
+220,JM,JM Large Cap Fund Direct Plan Growth,Equity,Very High Risk,4.0,4.71,15.88,10.12
+221,Kotak,Kotak Focused Equity Fund Direct Growth,Equity,Very High Risk,3.0,0.27,15.87,
+222,Mahindra,Mahindra Manulife Large Cap Pragati Yojana Direct Growth,Equity,Moderately High Risk,4.0,2.29,15.81,
+223,ICICI,ICICI Prudential Long Term Equity Fund (Tax Saving) Direct Plan Growth,Equity,Very High Risk,4.0,1.99,15.79,11.3
+224,Aditya,Aditya Birla Sun Life India GenNext Direct Fund Growth,Equity,Very High Risk,3.0,3.45,15.7,12.46
+225,IDBI,IDBI Midcap Fund Direct Growth,Equity,Very High Risk,1.0,-5.02,15.7,6.8
+226,Sundaram,Sundaram Mid Cap Fund Direct Growth,Equity,Very High Risk,2.0,4.38,15.66,7.09
+227,Aditya,Aditya Birla Sun Life International Equity Fund Plan B Direct Growth,Equity,Very High Risk,,26.07,15.65,12.41
+228,Baroda,Baroda BNP Paribas India Consumption Fund Direct Growth,Equity,Very High Risk,4.0,1.6,15.64,
+229,Franklin,Franklin India Prima Direct Fund Growth,Equity,Very High Risk,2.0,1.52,15.62,8.71
+230,Edelweiss,Edelweiss Large Cap Fund Direct Growth,Equity,Very High Risk,4.0,4.91,15.62,11.85
+231,Sundaram,Sundaram Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,5.0,6.15,15.51,10.47
+232,Nippon,Nippon India Vision Direct Growth,Equity,Very High Risk,1.0,1.98,15.47,6.27
+233,Quantum,Quantum Tax Saving Fund Direct Growth,Equity,Very High Risk,2.0,7.75,15.47,8.14
+234,IDFC,IDFC Nifty 50 Index Direct Plan Growth,Other,Very High Risk,4.0,4.2,15.45,11.59
+235,Taurus,Taurus Nifty 50 Index Fund Direct Growth,Other,Very High Risk,,3.8,15.42,11.52
+236,IDBI,IDBI Focused 30 Equity Fund Direct Growth,Equity,Very High Risk,3.0,0.36,15.37,9.76
+237,Motilal,Motilal Oswal Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3.0,3.96,15.36,
+238,Aditya,Aditya Birla Sun Life Frontline Equity Direct Fund Growth,Equity,Very High Risk,2.0,3.45,15.3,9.73
+239,Navi,Navi Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,3.08,15.23,
+240,ICICI,ICICI Prudential FMCG Direct Growth,Equity,Very High Risk,,17.67,15.22,11.83
+241,Quantum,Quantum Long Term Equity Value Fund Direct Growth,Equity,Very High Risk,2.0,7.2,15.22,8.13
+242,Edelweiss,Edelweiss Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,4.0,3.02,15.15,11.2
+243,UTI,UTI Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3.0,3.9,15.12,11.41
+244,ICICI,ICICI Prudential Nifty 50 Index Direct Plan Growth,Other,Very High Risk,3.0,3.84,15.11,11.29
+245,HDFC,HDFC Housing Opportunities Fund Direct Growth,Equity,Very High Risk,,10.13,15.1,7.31
+246,Tata,Tata Nifty 50 Index Direct,Other,Very High Risk,3.0,4.0,15.08,11.39
+247,Baroda,Baroda BNP Paribas Large Cap Fund Direct Growth,Equity,Very High Risk,5.0,4.25,15.08,11.47
+248,Sundaram,Sundaram Nifty 100 Equal Weight Fund Direct Growth,Other,Very High Risk,2.0,0.75,15.07,7.7
+249,HSBC,HSBC Business Cycles Fund Direct Growth,Equity,Very High Risk,,3.15,15.06,6.9
+250,Edelweiss,Edelweiss Long Term Equity Fund (Tax Savings) Direct Growth,Equity,Very High Risk,3.0,0.65,15.05,9.11
+251,Baroda,Baroda Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3.0,15.64,15.04,12.27
+252,Nippon,Nippon India Index Fund Nifty 50 Plan Direct Growth,Other,Very High Risk,3.0,3.86,15.04,11.3
+253,Franklin,Franklin India Life Stage FoF The 20s Plan Direct Growth,Other,Very High Risk,,5.26,15.03,9.13
+254,HDFC,HDFC Index Fund Nifty 50 Plan Direct Growth,Other,Very High Risk,3.0,3.86,15.01,11.35
+255,HDFC,HDFC Multi Asset Fund Direct Growth,Hybrid,Very High Risk,4.0,6.3,15.0,10.97
+256,Indiabulls,Indiabulls Value Fund Direct Growth,Equity,Very High Risk,2.0,1.44,14.99,4.87
+257,Axis,Axis Nifty 100 Index Fund Direct Growth,Other,Moderately High Risk,3.0,3.31,14.98,
+258,UTI,UTI Long Term Equity Fund Direct Growth,Equity,Very High Risk,3.0,-4.92,14.97,9.89
+259,DSP,DSP Nifty 50 Index Fund Direct Growth,Other,Moderately High Risk,3.0,3.87,14.96,
+260,ICICI,ICICI Prudential Passive Strategy Fund (FOF) Direct Growth,Other,Very High Risk,3.0,4.57,14.94,10.66
+261,Tata,Tata Large Cap Direct Plan Growth,Equity,Very High Risk,2.0,3.19,14.93,10.12
+262,HSBC,HSBC Midcap Fund Direct Growth,Equity,Very High Risk,2.0,1.6,14.93,7.15
+263,Aditya,Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3.0,3.73,14.92,10.96
+264,UTI,UTI Mastershare Direct Growth,Equity,Very High Risk,4.0,-2.36,14.9,10.7
+265,ICICI,ICICI Prudential S&P BSE Sensex Index Fund Direct Growth,Other,Very High Risk,4.0,4.26,14.9,11.96
+266,SBI,SBI Nifty Index Direct Plan Growth,Other,Very High Risk,3.0,3.9,14.9,11.19
+267,LIC,LIC MF Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3.0,3.95,14.85,10.94
+268,Franklin,Franklin India NSE Nifty 50 Index Direct Growth,Other,Very High Risk,3.0,3.83,14.84,10.93
+269,Nippon,Nippon India Index Fund S&P BSE Sensex Plan Direct Growth,Other,Very High Risk,4.0,4.29,14.83,12.0
+270,Canara,Canara Robeco Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,4.0,1.5,14.82,11.86
+271,Mirae,Mirae Asset Large Cap Fund Direct Growth,Equity,Very High Risk,4.0,2.12,14.82,10.87
+272,IDBI,IDBI Nifty Index Fund Direct Growth,Other,Very High Risk,3.0,3.82,14.81,11.16
+273,HDFC,HDFC Dynamic PE Ratio FoF Direct Growth,Other,High Risk,4.0,7.84,14.78,9.53
+274,Tata,Tata India Consumer Fund Direct Growth,Equity,Very High Risk,2.0,0.63,14.72,9.17
+275,HDFC,HDFC Index S&P BSE Sensex Direct Plan Growth,Other,Very High Risk,4.0,4.28,14.68,11.93
+276,Baroda,Baroda Large Cap Direct Fund Growth,Equity,Very High Risk,2.0,6.97,14.64,11.35
+277,HSBC,HSBC Large and Mid Cap Fund Direct Growth,Equity,Moderately High Risk,2.0,-3.33,14.63,
+278,LIC,LIC MF S&P BSE Sensex Fund Direct Growth,Other,Very High Risk,3.0,4.11,14.58,11.66
+279,ICICI,ICICI Prudential Bharat Consumption Fund Direct Growth,Equity,High Risk,3.0,7.86,14.58,
+280,Tata,Tata Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3.0,6.31,14.54,9.58
+281,Tata,Tata S&P BSE Sensex Index Direct,Other,Very High Risk,4.0,4.24,14.52,11.88
+282,Baroda,Baroda BNP Paribas Aggressive Hybrid Fund Direct Growth,Hybrid,Very High Risk,5.0,3.79,14.51,12.75
+283,Aditya,Aditya Birla Sun Life Financial Planning FoF Aggressive Plan Direct Growth,Other,Very High Risk,3.0,2.5,14.51,10.0
+284,UTI,UTI Infrastructure Fund Direct Growth,Equity,Very High Risk,2.0,6.81,14.51,7.18
+285,SBI,SBI Flexicap Fund Direct Growth,Equity,Very High Risk,3.0,0.09,14.45,9.84
+286,Sundaram,Sundaram Large Cap Fund Direct Growth,Equity,Very High Risk,5.0,4.5,14.43,11.69
+287,Aditya,Aditya Birla Sun Life Focused Equity Fund Direct Growth,Equity,Very High Risk,3.0,1.42,14.37,9.95
+288,IDFC,IDFC Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,3.0,1.05,14.37,9.04
+289,Franklin,Franklin India Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3.0,4.91,14.35,10.18
+290,Mirae,Mirae Asset Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,4.0,2.94,14.33,11.27
+291,HSBC,HSBC Flexi Cap Fund Direct Growth,Equity,Very High Risk,2.0,-4.18,14.31,7.54
+292,Sundaram,Sundaram Aggressive Hybrid Fund Direct Growth,Hybrid,High Risk,3.0,3.45,14.26,10.02
+293,LIC,LIC MF Large & Mid Cap Fund Direct Growth,Equity,Very High Risk,3.0,-4.51,14.24,10.34
+294,UTI,UTI Flexi Cap Fund Direct Growth,Equity,Very High Risk,4.0,-12.29,14.24,11.62
+295,Union,Union Largecap Fund Direct Growth,Equity,Very High Risk,2.0,-0.23,14.23,9.37
+296,Invesco,Invesco India Largecap Fund Direct Growth,Equity,Very High Risk,4.0,-3.35,14.18,10.43
+297,Aditya,Aditya Birla Sun Life Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,-0.62,14.18,9.57
+298,Franklin,Franklin India Bluechip Direct Fund Growth,Equity,Very High Risk,2.0,-0.86,14.17,8.49
+299,DSP,DSP Flexi Cap Fund Direct Plan Growth,Equity,Very High Risk,3.0,-4.52,14.16,10.55
+300,Bank,Bank of India Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,4.0,21.37,14.1,6.24
+301,Nippon,Nippon India Tax Saver (ELSS) Fund Direct Growth,Equity,Very High Risk,1.0,4.95,14.04,3.7
+302,ICICI,ICICI Prudential Asset Allocator Fund (FOF) Direct Growth,Other,Moderately High Risk,4.0,9.59,14.0,12.0
+303,Baroda,Baroda BNP Paribas Focused Fund Direct Growth,Equity,Very High Risk,3.0,1.22,13.98,8.77
+304,Franklin,Franklin India Equity Advantage Fund Direct Growth,Equity,Very High Risk,2.0,-3.48,13.97,8.32
+305,Taurus,Taurus Tax Shield Direct Growth,Equity,Very High Risk,3.0,5.88,13.96,9.34
+306,Kotak,Kotak Flexicap Fund Direct Growth,Equity,Very High Risk,3.0,4.02,13.95,10.83
+307,IDFC,IDFC Large Cap Fund Direct Growth,Equity,Very High Risk,3.0,-1.7,13.95,9.34
+308,Tata,Tata Balanced Advantage Fund Direct Growth,Hybrid,High Risk,4.0,7.0,13.88,
+309,Baroda,Baroda BNP Paribas ELSS Direct Growth,Equity,Very High Risk,3.0,-2.51,13.81,8.96
+310,Motilal,Motilal Oswal Long Term Equity Fund Direct Growth,Equity,Very High Risk,3.0,0.15,13.74,9.39
+311,SBI,SBI Focused Equity Fund Direct Plan Growth,Equity,Very High Risk,4.0,-6.84,13.74,11.17
+312,Invesco,Invesco India Growth Opportunities Fund Direct Growth,Equity,Very High Risk,3.0,-0.05,13.73,10.53
+313,UTI,UTI Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,3.0,0.02,13.73,
+314,Aditya,Aditya Birla Sun Life Manufacturing Equity Fund Direct Growth,Equity,Very High Risk,,-2.72,13.7,5.61
+315,ICICI,ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth,Solution Oriented,Moderately High Risk,4.0,1.82,13.7,
+316,DSP,DSP Quant Fund Direct Growth,Equity,High Risk,,-5.01,13.68,
+317,Aditya,Aditya Birla Sun Life Asset Allocator FoF Direct Growth,Other,High Risk,5.0,2.03,13.67,9.72
+318,Nippon,Nippon India Nifty Next 50 Junior BeES FoF Direct Growth,Other,Moderately High Risk,3.0,0.02,13.61,
+319,Aditya,Aditya Birla Sun Life Commodity Equities Fund Global Agri Plan Direct Growth,Equity,Very High Risk,,29.21,13.59,9.45
+320,IDBI,IDBI Nifty Junior Index Fund Direct Growth,Other,Very High Risk,1.0,0.41,13.57,6.31
+321,HSBC,HSBC Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3.0,1.08,13.54,
+322,Invesco,Invesco India Tax Plan Direct Growth,Equity,Very High Risk,3.0,-8.19,13.53,9.76
+323,DSP,DSP US Flexible Equity Direct Plan Growth,Other,Very High Risk,,-0.88,13.51,12.79
+324,Kotak,Kotak Global Emerging Market Fund Direct Growth,Other,Very High Risk,,-6.23,13.49,10.77
+325,DSP,DSP Nifty Next 50 Index Fund Direct Growth,Other,Moderately High Risk,3.0,0.15,13.46,
+326,ICICI,ICICI Prudential Nifty Next 50 Index Direct Growth,Other,Very High Risk,1.0,-0.03,13.45,6.22
+327,DSP,DSP Midcap Direct Plan Growth,Equity,Very High Risk,2.0,-5.84,13.43,8.79
+328,Shriram,Shriram Long Term Equity Fund Direct Growth,Equity,Very High Risk,3.0,0.64,13.37,
+329,SBI,SBI Magnum Equity ESG Fund Direct Plan Growth,Equity,Very High Risk,,-1.6,13.34,11.27
+330,Sundaram,Sundaram Financial Services Opportunities Fund Direct Growth,Equity,Very High Risk,4.0,13.3,13.32,10.94
+331,Motilal,Motilal Oswal Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,3.0,-0.01,13.32,
+332,Kotak,Kotak US Equity Fund Standard Direct Growth,Other,High Risk,1.0,17.14,13.24,11.67
+333,Indiabulls,Indiabulls Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,2.0,4.81,13.18,
+334,PGIM,PGIM India Large Cap Fund Direct Plan Growth,Equity,Very High Risk,2.0,3.11,13.17,9.63
+335,ICICI,ICICI Prudential US Bluechip Equity Direct Plan Growth,Equity,Very High Risk,,1.79,13.12,15.01
+336,HSBC,HSBC Managed Solutions India Growth Fund Direct Growth,Other,Very High Risk,2.0,-2.75,13.06,8.2
+337,Shriram,Shriram Flexi Cap Fund Direct Growth,Equity,Very High Risk,2.0,1.71,12.99,
+338,Quantum,Quantum Equity Fund of Funds Direct Growth,Other,Very High Risk,2.0,-1.32,12.86,8.05
+339,HSBC,HSBC Large Cap Fund Direct Growth,Equity,Very High Risk,2.0,-0.31,12.86,9.32
+340,Tata,Tata Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,-6.34,12.83,
+341,Navi,Navi ELSS Tax Saver Fund Direct Growth,Equity,Very High Risk,2.0,-2.35,12.78,8.84
+342,Nippon,Nippon India Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,3.0,14.77,12.74,8.82
+343,Indiabulls,Indiabulls Tax Savings Fund Direct Growth,Equity,Very High Risk,2.0,2.27,12.66,7.06
+344,Motilal,Motilal Oswal Nasdaq 100 FOF Direct Growth,Other,Very High Risk,,-14.81,12.61,
+345,Mahindra,Mahindra Manulife Rural Bharat And Consumption Yojana Direct Growth,Equity,Very High Risk,5.0,6.25,12.6,
+346,Tata,Tata Flexi Cap Fund Direct Growth,Equity,Very High Risk,3.0,-2.92,12.5,
+347,UTI,UTI Retirement Benefit Pension Fund Direct,Solution Oriented,High Risk,,6.21,12.47,6.98
+348,Tata,Tata Banking and Financial Services Fund Direct Growth,Equity,Very High Risk,4.0,14.09,12.41,12.14
+349,IDBI,IDBI Equity Advantage Fund Direct Growth,Equity,Very High Risk,2.0,1.99,12.31,8.9
+350,SBI,SBI Equity Hybrid Fund Direct Plan Growth,Hybrid,Very High Risk,4.0,1.63,12.27,10.15
+351,HSBC,HSBC ELSS Fund Direct Growth,Equity,Very High Risk,1.0,-2.38,12.24,6.44
+352,LIC,LIC MF Large Cap Fund Direct Growth,Equity,Very High Risk,3.0,-1.89,12.22,10.37
+353,DSP,DSP Equity & Bond Direct Growth,Hybrid,Very High Risk,3.0,-2.6,12.22,9.62
+354,Union,Union Balanced Advantage Fund Direct Growth,Hybrid,Moderate Risk,3.0,4.04,12.15,9.94
+355,Mahindra,Mahindra Manulife Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,4.0,3.54,12.07,8.96
+356,Navi,Navi Large Cap Equity Fund Direct Growth,Equity,Very High Risk,2.0,-0.54,12.05,8.79
+357,IDBI,IDBI Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,2.0,-1.04,12.05,6.59
+358,Axis,Axis Flexi Cap Fund Direct Growth,Equity,Very High Risk,4.0,-9.54,12.03,12.54
+359,Aditya,Aditya Birla Sun Life Financial Planning FoF Moderate Plan Direct Growth,Other,High Risk,3.0,3.22,12.02,9.02
+360,Sundaram,Sundaram Consumption Fund Direct Growth,Equity,Very High Risk,1.0,5.77,12.0,7.18
+361,Franklin,Franklin India Dynamic Asset Allocation Fund of Funds Direct Growth,Other,Moderately High Risk,3.0,6.2,11.96,9.19
+362,Motilal,Motilal Oswal Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3.0,4.28,11.95,
+363,IDFC,IDFC Flexi Cap Fund Direct Growth,Equity,Very High Risk,2.0,-2.6,11.93,7.29
+364,ICICI,ICICI Prudential Balanced Advantage Direct Growth,Hybrid,Moderately High Risk,4.0,7.66,11.93,10.14
+365,HSBC,HSBC Managed Solutions India Moderate Fund Direct Growth,Other,High Risk,2.0,-1.59,11.89,7.9
+366,HDFC,HDFC Gold Direct Plan Growth,Other,High Risk,5.0,16.68,11.84,12.69
+367,Aditya,Aditya Birla Sun Life Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,4.0,5.4,11.83,9.37
+368,ITI,ITI Long Term Equity Fund Direct Growth,Equity,Moderately High Risk,2.0,4.39,11.81,
+369,Motilal,Motilal Oswal Focused Fund Direct Growth,Equity,Very High Risk,2.0,1.05,11.79,9.3
+370,Mirae,Mirae Asset Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,5.0,4.32,11.79,
+371,Edelweiss,Edelweiss US Value Equity Offshore Fund Direct Growth,Other,Very High Risk,,4.28,11.77,11.57
+372,Axis,Axis Gold Direct Plan Growth,Other,High Risk,4.0,16.56,11.76,13.06
+373,Axis,Axis Triple Advantage Direct Plan Growth,Hybrid,Very High Risk,2.0,-5.77,11.71,10.5
+374,SBI,SBI Gold Direct Plan Growth,Other,High Risk,3.0,16.94,11.7,12.65
+375,Kotak,Kotak Debt Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,5.0,5.58,11.68,9.65
+376,Nippon,Nippon India Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,3.0,6.28,11.67,8.38
+377,SBI,SBI Multi Asset Allocation Fund Direct Growth,Hybrid,Very High Risk,3.0,7.43,11.63,9.77
+378,Indiabulls,Indiabulls Bluechip Direct Fund Growth,Equity,Very High Risk,2.0,3.67,11.54,8.76
+379,ICICI,ICICI Prudential Regular Gold Savings (FOF) Direct Growth,Other,High Risk,3.0,16.75,11.5,12.57
+380,Kotak,Kotak Gold Fund Direct Growth,Other,High Risk,3.0,15.87,11.5,13.05
+381,Navi,Navi Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3.0,3.36,11.5,
+382,UTI,UTI MNC Fund Direct Growth,Equity,Very High Risk,,-0.23,11.49,6.97
+383,Tata,Tata Retirement Savings Fund Moderate Plan Direct Growth,Solution Oriented,Very High Risk,3.0,-0.5,11.46,8.32
+384,Nippon,Nippon India Gold Savings Fund Direct Growth,Other,High Risk,2.0,16.29,11.39,12.47
+385,Aditya,Aditya Birla Sun Life Gold Direct Fund Growth,Other,High Risk,1.0,16.03,11.38,12.4
+386,Aditya,Aditya Birla Sun Life Equity Hybrid '95 Fund Direct Growth,Hybrid,Very High Risk,2.0,-1.16,11.38,6.79
+387,Taurus,Taurus Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,4.0,11.94,11.37,11.15
+388,PGIM,PGIM India Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,2.0,-0.39,11.36,8.07
+389,Navi,Navi 3 in 1 Fund Direct Growth,Hybrid,Very High Risk,2.0,2.26,11.36,8.96
+390,Aditya,Aditya Birla Sun Life Equity Advantage Fund Direct Growth,Equity,Very High Risk,1.0,-13.34,11.31,6.55
+391,Motilal,Motilal Oswal Nifty Bank Index Fund Direct Growth,Other,High Risk,2.0,14.56,11.3,
+392,IDBI,IDBI Gold Direct Growth,Other,High Risk,3.0,16.58,11.28,12.19
+393,Tata,Tata Retirement Savings Fund Progressive Plan Direct Growth,Solution Oriented,Very High Risk,3.0,-2.36,11.26,8.26
+394,Franklin,Franklin India Life Stage FoF The 30s Plan Direct Growth,Other,High Risk,,4.83,11.25,7.89
+395,HDFC,HDFC Equity Savings Direct Plan Growth,Hybrid,Moderately High Risk,4.0,6.03,11.25,8.38
+396,Kotak,Kotak Balanced Advantage Fund Direct Growth,Hybrid,High Risk,3.0,5.42,11.25,
+397,Quantum,Quantum Gold Savings Fund Direct Growth,Other,High Risk,2.0,16.56,11.24,12.55
+398,Shriram,Shriram Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,2.0,2.64,11.2,8.62
+399,Axis,Axis Bluechip Fund Direct Plan Growth,Equity,Very High Risk,5.0,-6.73,11.17,11.95
+400,Taurus,Taurus Largecap Equity Fund Direct Growth,Equity,Very High Risk,1.0,3.62,11.15,6.73
+401,JM,JM Low Duration Fund Direct Plan Growth,Debt,Low to Moderate Risk,4.0,4.72,11.15,5.31
+402,SBI,SBI Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,5.0,9.49,11.14,11.89
+403,SBI,SBI Conservative Hybrid Fund Direct Growth,Hybrid,High Risk,4.0,5.15,11.08,8.6
+404,Franklin,Franklin Asian Equity Direct Fund Growth,Equity,Very High Risk,,-10.94,11.07,10.82
+405,Aditya,Aditya Birla Sun Life Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,2.0,6.77,11.01,8.16
+406,UTI,UTI Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,4.0,6.89,10.99,
+407,Invesco,Invesco India Financial Services Fund Direct Growth,Equity,Very High Risk,3.0,7.12,10.91,9.92
+408,Invesco,Invesco India Gold Fund Direct Growth,Other,High Risk,3.0,16.92,10.9,13.0
+409,Invesco,Invesco India Invesco Global Equity Income FoF Direct Growth,Other,Very High Risk,3.0,5.96,10.84,8.55
+410,Nippon,Nippon India Retirement Fund Wealth Creation Scheme Direct Growth,Solution Oriented,Very High Risk,1.0,0.93,10.81,5.47
+411,UTI,UTI India Consumer Fund Direct Growth,Equity,Very High Risk,2.0,-5.1,10.79,7.89
+412,IDFC,IDFC Focused Equity Fund Direct Growth,Equity,Very High Risk,2.0,-5.77,10.78,5.67
+413,Taurus,Taurus Flexi Cap Fund Direct Growth,Equity,Very High Risk,1.0,2.12,10.75,4.91
+414,HSBC,HSBC Aggressive Hybrid Fund Direct Growth,Hybrid,Very High Risk,2.0,-2.82,10.74,7.05
+415,Axis,Axis Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,2.0,-5.72,10.71,
+416,Bank,Bank of India Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,2.0,15.86,10.58,5.6
+417,Shriram,Shriram Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,4.0,3.69,10.57,
+418,Aditya,Aditya Birla Sun Life Regular Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,6.51,10.55,7.18
+419,UTI,UTI Focussed Equity Fund Series VI (1150 Days) Direct Growth,Equity,Very High Risk,,63.05,10.5,
+420,Kotak,Kotak Equity Savings Fund Direct Growth,Hybrid,Moderate Risk,4.0,7.37,10.48,8.82
+421,LIC,LIC MF Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,2.0,14.38,10.43,5.15
+422,LIC,LIC MF Tax Direct Plan Growth,Equity,Very High Risk,3.0,-3.96,10.36,8.67
+423,Invesco,Invesco India Equity & Bond Fund Direct Growth,Hybrid,Very High Risk,2.0,0.21,10.36,
+424,Edelweiss,Edelweiss Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,5.0,4.59,10.29,8.64
+425,UTI,UTI Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,,11.31,10.27,6.21
+426,Reliance,Reliance Focused Large Cap Fund Direct Growth,Equity,Moderately High Risk,3.0,9.37,10.27,16.38
+427,Axis,Axis Retirement Savings Fund Dynamic Plan Direct Growth,Solution Oriented,Moderately High Risk,1.0,-7.48,10.26,
+428,DSP,DSP Top 100 Equity Direct Plan Growth,Equity,Very High Risk,1.0,3.54,10.22,8.17
+429,Sundaram,Sundaram Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,4.0,5.16,10.09,8.2
+430,Edelweiss,Edelweiss Europe Dynamic Equity Offshore Fund Direct Growth,Other,Very High Risk,,1.2,10.09,6.63
+431,HDFC,HDFC Hybrid Debt Fund Direct Growth,Hybrid,Moderately High Risk,3.0,6.54,10.09,7.7
+432,UTI,UTI Regular Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,4.09,10.07,7.01
+433,ICICI,ICICI Prudential Banking and Financial Services Direct Plan Growth,Equity,Very High Risk,3.0,8.55,10.07,8.32
+434,Baroda,Baroda Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,4.0,4.24,9.98,8.77
+435,Invesco,Invesco India Invesco Pan European Equity FoF Direct Growth,Other,Very High Risk,3.0,6.87,9.92,5.35
+436,Aditya,Aditya Birla Sun Life Retirement Fund The 30s Plan Direct Growth,Solution Oriented,Moderately High Risk,2.0,0.37,9.89,
+437,UTI,UTI Multi Asset Fund Direct Growth,Hybrid,Very High Risk,2.0,4.81,9.88,6.82
+438,IDFC,IDFC Asset Allocation Aggressive Direct Plan Growth,Other,Very High Risk,2.0,-1.28,9.87,6.52
+439,JM,JM Focused Direct Plan Growth,Equity,Very High Risk,1.0,2.71,9.85,7.5
+440,Aditya,Aditya Birla Sun Life Financial Planning FoF Conservative Plan Direct Growth,Other,Moderately High Risk,4.0,4.34,9.84,8.01
+441,Canara,Canara Robeco Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,5.0,3.72,9.76,9.03
+442,ICICI,ICICI Prudential Regular Savings Fund Direct Growth,Hybrid,Moderately High Risk,5.0,4.81,9.71,8.87
+443,HSBC,HSBC Equity Savings Fund Direct Growth,Hybrid,Moderate Risk,2.0,2.36,9.68,6.96
+444,Invesco,Invesco India Dynamic Equity Fund Direct Growth,Hybrid,Very High Risk,2.0,4.57,9.68,6.85
+445,DSP,DSP Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,2.0,5.48,9.63,7.73
+446,ICICI,ICICI Prudential Income Optimizer Fund (FOF) Direct Growth,Other,Moderate Risk,4.0,7.82,9.59,8.98
+447,Franklin,Franklin India Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,4.26,9.56,
+448,Nippon,Nippon India Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,1.0,6.34,9.53,5.18
+449,HDFC,HDFC Fixed Maturity Plan 1141 Days August 2018 (1) Direct Growth,Debt,Moderately High Risk,3.0,9.19,9.52,
+450,ICICI,ICICI Prudential Regular Savings Fund Direct Growth,Hybrid,Moderately High Risk,5.0,5.55,9.44,8.8
+451,Bank,Bank of India Short Term Income Fund Direct Growth,Debt,Moderate Risk,5.0,27.76,9.43,4.05
+452,Quantum,Quantum Multi Asset Fund of Funds Direct Growth,Other,Moderately High Risk,3.0,7.26,9.37,7.9
+453,IDFC,IDFC Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,3.0,-0.36,9.36,8.09
+454,Aditya,Aditya Birla Sun Life Retirement Fund The 40s Plan Direct Growth,Solution Oriented,Moderately High Risk,2.0,0.47,9.27,
+455,SBI,SBI Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,1.85,9.27,7.61
+456,Axis,Axis Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,3.0,1.23,9.27,7.85
+457,Baroda,Baroda BNP Paribas Credit Risk Fund Direct Growth,Debt,Moderately High Risk,5.0,5.59,9.25,7.56
+458,Axis,Axis Equity Saver Fund Direct Growth,Hybrid,Moderately High Risk,3.0,1.41,9.23,8.62
+459,DSP,DSP Focus Direct Plan Growth,Equity,Very High Risk,2.0,-4.52,9.09,7.55
+460,Tata,Tata Dividend Yield Fund Direct Growth,Equity,Very High Risk,,3.68,9.08,16.72
+461,Aditya,Aditya Birla Sun Life Global Emerging Opportunities Fund Direct Growth,Other,Very High Risk,,-7.63,9.07,6.8
+462,Axis,Axis Regular Saver Fund Direct Growth,Hybrid,Moderately High Risk,3.0,1.22,9.02,6.84
+463,UTI,UTI Banking and Financial Services Fund Direct Plan Growth,Equity,Very High Risk,2.0,10.35,8.96,5.27
+464,Axis,Axis Long Term Equity Direct Plan Growth,Equity,Very High Risk,2.0,-12.97,8.91,8.72
+465,Aditya,Aditya Birla Sun Life International Equity Fund Plan A Direct Growth,Equity,Very High Risk,,2.49,8.87,10.37
+466,Sundaram,Sundaram Debt Oriented Hybrid Fund Direct Plan Growth,Hybrid,Moderate Risk,2.0,3.89,8.84,5.85
+467,HSBC,HSBC Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,3.0,3.68,8.73,7.9
+468,UTI,UTI Bond Fund Direct Growth,Debt,Moderate Risk,5.0,10.85,8.71,4.24
+469,ITI,ITI Multi Cap Fund Direct Growth,Equity,Moderately High Risk,,3.74,8.7,
+470,IDBI,IDBI Short Term Bond Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.09,8.68,6.93
+471,ICICI,ICICI Prudential Global Stable Equity Fund (FOF) Direct Growth,Other,Very High Risk,,2.66,8.68,9.29
+472,LIC,LIC MF Flexi Cap Fund Direct Growth,Equity,Very High Risk,2.0,-4.32,8.67,6.21
+473,Tata,Tata Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,2.0,3.48,8.64,7.54
+474,Axis,Axis Retirement Savings Fund Aggressive Plan Direct Growth,Solution Oriented,Moderately High Risk,1.0,-7.46,8.59,
+475,IDBI,IDBI Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,2.0,5.27,8.56,
+476,HDFC,HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth,Solution Oriented,Moderately High Risk,4.0,5.52,8.53,7.35
+477,Aditya,Aditya Birla Sun Life Tax Relief 96 Direct Growth,Equity,Very High Risk,1.0,-2.88,8.49,5.62
+478,Baroda,Baroda BNP Paribas Banking and Financial Services Direct Growth,Equity,Very High Risk,2.0,10.49,8.39,8.52
+479,PGIM,PGIM India Global Equity Opportunities Fund Direct Growth,Other,Very High Risk,,-19.1,8.33,12.04
+480,IDBI,IDBI Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,2.0,2.93,8.28,7.53
+481,DSP,DSP Dynamic Asset Allocation Fund Direct Growth,Hybrid,Moderately High Risk,4.0,1.03,8.26,8.2
+482,Axis,Axis Retirement Savings Fund Conservative Plan Direct Growth,Solution Oriented,Moderately High Risk,3.0,-2.34,8.24,
+483,Franklin,Franklin India Life Stage FoF The 50s Plus Floating Rate Direct Plan Growth,Other,Moderate Risk,3.0,5.76,8.24,7.44
+484,PGIM,PGIM India Equity Savings Fund Direct Growth,Hybrid,Low to Moderate Risk,3.0,4.19,8.19,7.29
+485,Baroda,Baroda BNP Paribas Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,3.96,8.19,
+486,UTI,UTI Fixed Term Income Fund Series XXX II (1107 Days) Direct Growth,Debt,Low to Moderate Risk,,4.18,8.17,
+487,UTI,UTI Fixed Term Income Fund Series XXIX VIII (1127 Days) Direct Growth,Debt,Low to Moderate Risk,,4.19,8.15,
+488,Aditya,Aditya Birla Sun Life Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,2.0,-0.21,8.14,6.63
+489,DSP,DSP Regular Savings Direct Plan Growth,Hybrid,Moderate Risk,2.0,4.41,8.06,5.88
+490,Nippon,Nippon India US Equity Opportunities Fund Direct Growth,Equity,Very High Risk,,-8.68,8.03,12.38
+491,UTI,UTI Short term Income Direct Growth,Debt,Low to Moderate Risk,5.0,4.63,8.03,5.39
+492,LIC,LIC MF Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,1.0,-1.83,8.01,6.89
+493,IDFC,IDFC Asset Allocation Moderate Direct Growth,Other,High Risk,,0.05,7.96,6.57
+494,IDFC,IDFC Equity Savings Fund Direct Growth,Hybrid,Low to Moderate Risk,3.0,3.49,7.89,7.17
+495,UTI,UTI Fixed Term Income Fund Series XXIII XV (1176 Days) Direct Growth,Debt,Moderate Risk,,7.75,7.88,
+496,HSBC,HSBC Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,3.0,2.01,7.88,6.9
+497,Axis,Axis Focused 25 Direct Plan Growth,Equity,Very High Risk,2.0,-15.71,7.82,7.96
+498,ICICI,ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth,Solution Oriented,Moderately High Risk,3.0,2.65,7.79,
+499,Franklin,Franklin India Life Stage FoF The 40s Plan Direct Growth,Other,Moderately High Risk,1.0,5.74,7.63,6.38
+500,HDFC,HDFC Credit Risk Debt Fund Direct Growth,Debt,Moderately High Risk,4.0,4.58,7.62,7.69
+501,Union,Union Equity Savings Fund Direct Growth,Hybrid,Moderate Risk,2.0,2.34,7.59,
+502,ICICI,ICICI Prudential Credit Risk Fund Direct Plan Growth,Debt,High Risk,4.0,5.73,7.59,8.18
+503,ICICI,ICICI Prudential All Seasons Bond Fund Direct Plan Growth,Debt,Moderate Risk,5.0,5.92,7.57,8.11
+504,ICICI,ICICI Prudential Equity Savings Fund Direct Growth,Hybrid,Low to Moderate Risk,3.0,7.78,7.55,7.63
+505,Tata,Tata Medium Term Fund Direct Growth,Debt,Moderate Risk,4.0,3.59,7.51,3.35
+506,DSP,DSP World Energy Fund Direct Plan Growth,Other,Very High Risk,,1.73,7.5,4.95
+507,Edelweiss,Edelweiss Government Securities Fund Direct Growth,Debt,Moderate Risk,4.0,3.78,7.47,8.14
+508,UTI,UTI Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,,10.92,7.45,5.63
+509,DSP,DSP Global Allocation Fund Direct Growth,Other,Very High Risk,,-1.88,7.44,7.67
+510,DSP,DSP World Gold Fund Direct Plan Growth,Other,Very High Risk,,-1.51,7.36,8.25
+511,Motilal,Motilal Oswal Flexi Cap Fund Direct Growth,Equity,Very High Risk,1.0,-4.62,7.36,4.44
+512,Baroda,Baroda BNP Paribas Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,4.0,3.76,7.33,7.34
+513,Tata,Tata Retirement Savings Fund Conservative Plan Direct Growth,Solution Oriented,Moderately High Risk,3.0,1.59,7.32,6.65
+514,Aditya,Aditya Birla Sun Life Dynamic Bond Retail Fund Direct Growth,Debt,Moderate Risk,4.0,6.97,7.32,5.72
+515,BNP,BNP Paribas Short Term Fund Direct Growth,Debt,Moderate Risk,3.0,5.32,7.29,7.32
+516,ICICI,ICICI Prudential Medium Term Bond Fund Direct Plan Growth,Debt,Moderately High Risk,4.0,5.36,7.24,7.59
+517,ICICI,ICICI Prudential Gilt Fund Direct Plan Growth,Debt,Low to Moderate Risk,5.0,5.59,7.16,8.05
+518,Axis,Axis Strategic Bond Fund Direct Growth,Debt,Moderate Risk,4.0,4.84,7.14,7.37
+519,Nippon,Nippon IndiaRetirement Fund Income Generation Scheme Direct Growth,Solution Oriented,Moderately High Risk,2.0,4.28,7.14,6.92
+520,Tata,Tata Dynamic Bond Direct Growth,Debt,Moderately High Risk,4.0,5.67,7.13,6.6
+521,Aditya,Aditya Birla Sun Life Short Term Direct Fund Growth,Debt,Moderate Risk,4.0,5.12,7.11,7.55
+522,ICICI,ICICI Prudential Short Term Fund Direct Plan Growth,Debt,Moderate Risk,4.0,5.82,7.07,7.74
+523,Axis,Axis Credit Risk Fund Direct Growth,Debt,Moderately High Risk,4.0,5.12,7.04,6.83
+524,BHARAT,BHARAT Bond FOF April 2030 Direct Growth,Other,Moderate Risk,,3.93,7.02,
+525,UTI,UTI Treasury Advantage Fund Direct Growth,Debt,Low to Moderate Risk,5.0,4.78,6.99,4.78
+526,Invesco,Invesco India Equity Savings Fund Direct Growth,Hybrid,Moderately High Risk,2.0,-0.28,6.97,
+527,Kotak,Kotak Gilt Investment PF & Trust Direct Growth,Debt,Low to Moderate Risk,4.0,3.93,6.94,8.07
+528,Axis,Axis Corporate Debt Fund Direct Growth,Debt,Low to Moderate Risk,5.0,4.62,6.92,7.32
+529,Franklin,Franklin India Debt Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,3.0,4.78,6.92,6.71
+530,SBI,SBI Magnum Medium Duration Fund Direct Growth,Debt,Moderately High Risk,4.0,4.33,6.88,7.89
+531,LIC,LIC MF Debt Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,3.0,2.46,6.88,6.51
+532,HDFC,HDFC Dynamic Debt Fund Direct Plan Growth,Debt,Moderate Risk,5.0,3.55,6.88,5.91
+533,SBI,SBI Magnum Gilt Fund Direct Growth,Debt,Moderate Risk,5.0,5.38,6.85,7.96
+534,SBI,SBI Credit Risk Fund Direct Growth,Debt,High Risk,3.0,5.0,6.83,7.01
+535,DSP,DSP Government Securities Direct Plan Growth,Debt,Moderate Risk,4.0,3.8,6.81,8.35
+536,Edelweiss,Edelweiss Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,2.0,3.8,6.81,7.98
+537,Aditya,Aditya Birla Sun Life Income Fund Direct Growth,Debt,Moderate Risk,4.0,3.48,6.75,7.37
+538,Aditya,Aditya Birla Sun Life Corporate Bond Fund Direct Growth,Debt,Moderate Risk,4.0,4.53,6.71,7.44
+539,Kotak,Kotak Floating Rate Fund Direct Growth,Debt,Low to Moderate Risk,2.0,3.98,6.65,
+540,ICICI,ICICI Prudential Retirement Fund Pure Debt Plan Direct Growth,Solution Oriented,Moderately High Risk,3.0,4.36,6.64,
+541,SBI,SBI Magnum Income Direct Plan Growth,Debt,Moderately High Risk,4.0,4.43,6.64,7.65
+542,HDFC,HDFC Medium Term Debt Fund Direct Plan Growth,Debt,Moderately High Risk,3.0,4.03,6.61,7.34
+543,ICICI,ICICI Prudential Corporate Bond Fund Direct Plan Growth,Debt,Low to Moderate Risk,4.0,5.26,6.56,7.36
+544,Nippon,Nippon India Floating Rate Fund Direct Growth,Debt,Moderate Risk,3.0,4.31,6.55,7.11
+545,Kotak,Kotak Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.53,6.54,7.43
+546,Nippon,Nippon India Ultra Short Duration Fund Direct Growth,Debt,Moderate Risk,5.0,5.46,6.53,5.9
+547,Edelweiss,Edelweiss Greater China Equity Off shore Fund Direct Growth,Other,Very High Risk,,-14.1,6.52,7.89
+548,Nippon,Nippon India Corporate Bond Fund Direct Growth,Debt,Moderate Risk,5.0,4.97,6.51,7.06
+549,IDBI,IDBI Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,3.0,2.06,6.48,5.7
+550,Axis,Axis Gilt Fund Direct Plan Growth,Debt,Low to Moderate Risk,4.0,3.29,6.48,7.56
+551,HDFC,HDFC Corporate Bond Fund Direct Plan Growth,Debt,Moderate Risk,3.0,3.92,6.48,7.33
+552,ICICI,ICICI Prudential Floating Interest Fund Direct Plan Growth,Debt,Low to Moderate Risk,2.0,5.03,6.46,7.25
+553,HDFC,HDFC Short Term Debt Fund Direct Plan Growth,Debt,Moderate Risk,3.0,4.36,6.46,7.33
+554,Nippon,Nippon India Short Term Fund Direct Growth,Debt,Moderate Risk,4.0,4.27,6.45,7.19
+555,Kotak,Kotak Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,4.0,3.74,6.42,7.81
+556,Aditya,Aditya Birla Sun Life Government Securities Fund Direct Plan Growth,Debt,Moderate Risk,3.0,3.3,6.42,7.74
+557,Axis,Axis Short Term Direct Fund Growth,Debt,Low to Moderate Risk,4.0,4.65,6.41,7.39
+558,BHARAT,BHARAT Bond FOF April 2023 Direct Growth,Other,Low Risk,3.0,4.4,6.37,
+559,IDFC,IDFC Government Securities Investment Plan Direct Growth,Debt,Moderate Risk,3.0,2.98,6.37,8.26
+560,Axis,Axis Dynamic Bond Direct Fund Growth,Debt,Moderate Risk,2.0,3.49,6.35,7.61
+561,HSBC,HSBC Medium Duration Fund Direct Growth,Debt,Moderate Risk,3.0,3.92,6.35,6.66
+562,IDFC,IDFC Asset Allocation Conservative Direct Growth,Other,Moderately High Risk,3.0,2.18,6.33,6.37
+563,Nippon,Nippon India Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,3.0,3.87,6.32,7.39
+564,Kotak,Kotak Medium Term Fund Direct Growth,Debt,Moderately High Risk,4.0,4.49,6.31,6.72
+565,HSBC,HSBC Corporate Bond Direct Growth,Debt,Moderate Risk,1.0,3.33,6.31,7.65
+566,ICICI,ICICI Prudential Banking & PSU Debt Direct Growth,Debt,Low to Moderate Risk,5.0,5.26,6.29,7.14
+567,ICICI,ICICI Prudential Bond Fund Direct Plan Growth,Debt,Moderate Risk,3.0,4.62,6.29,7.15
+568,Aditya,Aditya Birla Sun Life Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,4.0,4.26,6.28,7.27
+569,SBI,SBI Dynamic Bond Direct Plan Growth,Debt,Moderate Risk,4.0,5.56,6.26,7.65
+570,PGIM,PGIM India Corporate Bond Direct Plan Growth,Debt,Low to Moderate Risk,4.0,4.1,6.23,6.87
+571,Kotak,Kotak Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,3.0,4.3,6.23,7.42
+572,Navi,Navi Regular Savings Fund Direct Growth,Hybrid,Moderately High Risk,3.0,4.03,6.18,6.46
+573,IDFC,IDFC Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.19,6.18,6.82
+574,ICICI,ICICI Prudential Debt Management Fund (FOF) Direct Plan Growth,Other,Moderate Risk,4.0,4.85,6.17,6.98
+575,HDFC,HDFC Banking and PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.1,6.16,7.14
+576,Kotak,Kotak Bond Short Term Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.09,6.15,7.27
+577,IDFC,IDFC Banking & PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,5.0,4.08,6.14,7.58
+578,IIFL,IIFL Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,4.0,3.9,6.13,6.57
+579,Nippon,Nippon India Income Fund Direct Growth,Debt,Moderate Risk,3.0,4.83,6.13,7.55
+580,Sundaram,Sundaram Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.05,6.12,7.15
+581,IDFC,IDFC Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,2.0,2.85,6.12,7.54
+582,HDFC,HDFC Floating Rate Debt Fund Direct Plan Growth,Debt,Moderate Risk,4.0,4.82,6.12,6.9
+583,UTI,UTI Corporate Bond Fund Direct Growth,Debt,Moderate Risk,3.0,4.02,6.1,
+584,DSP,DSP Credit Risk Direct Plan Growth,Debt,Moderate Risk,3.0,8.81,6.1,4.73
+585,Tata,Tata Income Fund Direct Growth,Debt,Moderate Risk,3.0,2.35,6.09,6.03
+586,Sundaram,Sundaram Short Term Debt Fund Direct Plan Growth,Debt,Low to Moderate Risk,2.0,13.68,6.07,6.42
+587,Tata,Tata Banking & PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.7,6.04,
+588,DSP,DSP Strategic Bond Direct Plan Growth,Debt,Low to Moderate Risk,3.0,2.66,6.04,7.19
+589,Nippon,Nippon India Gilt Securities Fund Direct Growth,Debt,Moderate Risk,3.0,3.73,6.01,8.06
+590,Nippon,Nippon India Gilt Securities Fund Direct Defined Maturity Date Growth,Debt,Moderate Risk,3.0,3.73,6.01,8.06
+591,Nippon,Nippon India Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,1.0,3.91,6.01,6.5
+592,JM,JM Money Market Fund Direct Plan Growth,Debt,Moderately Low Risk,1.0,4.21,6.0,6.64
+593,Nippon,Nippon India Nivesh Lakshya Fund Direct Growth,Debt,Moderate Risk,,5.16,6.0,
+594,Edelweiss,Edelweiss ASEAN Equity Off Shore Fund Direct Growth,Other,Very High Risk,,7.93,5.99,4.96
+595,Aditya,Aditya Birla Sun Life Low Duration Fund Direct Growth,Debt,Moderate Risk,4.0,5.24,5.97,7.04
+596,Tata,Tata Short Term Bond Direct Plan Growth,Debt,Low to Moderate Risk,3.0,4.15,5.95,5.72
+597,Aditya,Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme Direct Growth,Other,Moderate Risk,3.0,3.68,5.93,6.78
+598,Kotak,Kotak Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.18,5.92,7.14
+599,SBI,SBI Corporate Bond Fund Direct Growth,Debt,Moderate Risk,3.0,3.97,5.92,
+600,IDFC,IDFC All Seasons Bond Fund Direct Growth,Other,Moderate Risk,3.0,3.87,5.91,7.11
+601,PGIM,PGIM India Banking & PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.83,5.91,7.13
+602,Principal,Principal Large Cap Fund Direct  Growth,Equity,Very High Risk,4.0,29.59,5.9,8.85
+603,HDFC,HDFC Low Duration Fund Direct Plan Growth,Debt,Moderate Risk,4.0,4.89,5.9,6.72
+604,Motilal,Motilal Oswal Balance Advantage Fund Direct Growth,Hybrid,Very High Risk,1.0,-1.83,5.9,5.67
+605,DSP,DSP Banking & PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.7,5.86,6.94
+606,ICICI,ICICI Prudential Constant Maturity Gilt Fund Direct Growth,Debt,Moderate Risk,,2.38,5.85,8.09
+607,Nippon,Nippon India Low Duration Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.95,5.82,6.54
+608,HSBC,HSBC Gilt Fund Direct Growth,Debt,Moderate Risk,3.0,4.14,5.82,7.05
+609,Aditya,Aditya Birla Sun Life Floating Rate Direct Fund Growth,Debt,Low to Moderate Risk,5.0,5.14,5.81,6.85
+610,HSBC,HSBC Managed Solutions India Conservative Fund Direct Growth,Other,Moderate Risk,2.0,2.67,5.8,5.78
+611,Kotak,Kotak Low Duration Fund Direct Growth,Debt,Moderate Risk,3.0,4.75,5.8,6.95
+612,SBI,SBI Short Term Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.27,5.8,6.85
+613,Baroda,Baroda BNP Paribas Dynamic Bond Plan Direct Growth,Debt,Moderate Risk,3.0,5.29,5.79,6.15
+614,Axis,Axis Banking & PSU Debt Direct Plan Growth,Debt,Low to Moderate Risk,4.0,4.3,5.79,7.25
+615,Quantum,Quantum Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.3,5.78,6.61
+616,PGIM,PGIM India Gilt Direct Plan Growth,Debt,Moderate Risk,3.0,3.57,5.76,6.91
+617,IDBI,IDBI Credit Risk Fund Direct Growth,Debt,Moderately High Risk,3.0,4.59,5.75,3.82
+618,UTI,UTI Ultra Short Term Fund Direct Growth,Debt,Moderate Risk,5.0,4.94,5.74,5.74
+619,IDFC,IDFC Credit Risk Fund Direct Growth,Debt,Moderately High Risk,3.0,4.41,5.74,6.75
+620,IDFC,IDFC Bond Fund Short Term Plan Direct Growth,Debt,Moderate Risk,2.0,3.86,5.73,6.94
+621,Invesco,Invesco India Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.61,5.73,6.91
+622,Canara,Canara Robeco Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.82,5.71,6.69
+623,Mirae,Mirae Asset Short Term Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.27,5.7,
+624,DSP,DSP Bond Direct Growth,Debt,Moderate Risk,3.0,3.79,5.68,4.96
+625,Franklin,Franklin India Corporate Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.01,5.67,7.08
+626,Baroda,Baroda BNP Paribas Short Duration Direct Fund Growth,Debt,Low to Moderate Risk,3.0,4.05,5.66,6.75
+627,Invesco,Invesco India Short Term Fund Direct Growth,Debt,Low to Moderate Risk,2.0,3.7,5.65,6.77
+628,ICICI,ICICI Prudential Savings Fund Direct Plan Growth,Debt,Low to Moderate Risk,2.0,4.71,5.65,6.68
+629,DSP,DSP Short Term Direct Plan Growth,Debt,Low to Moderate Risk,3.0,3.97,5.65,6.74
+630,PGIM,PGIM India Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.36,5.64,4.61
+631,Canara,Canara Robeco Income Direct Growth,Debt,Moderate Risk,3.0,3.63,5.63,6.92
+632,PGIM,PGIM India Dynamic Bond Direct Plan Growth,Debt,Moderate Risk,3.0,4.14,5.62,7.29
+633,SBI,SBI Banking and PSU Fund Direct Growth,Debt,Moderate Risk,2.0,3.66,5.61,7.06
+634,Baroda,Baroda BNP Paribas Low Duration Fund Direct Growth,Debt,Moderate Risk,3.0,4.63,5.6,6.52
+635,ICICI,ICICI Prudential Ultra Short Term Fund Direct Growth,Debt,Moderate Risk,4.0,5.19,5.57,6.77
+636,Sundaram,Sundaram Low Duration Fund Direct Growth,Debt,Low to Moderate Risk,3.0,12.58,5.57,6.32
+637,HSBC,HSBC Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,3.57,5.56,6.75
+638,Quant,Quant Dynamic Bond Fund Direct Growth,Debt,Low Risk,3.0,4.44,5.55,5.4
+639,Franklin,Franklin India Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,3.0,3.95,5.55,7.17
+640,UTI,UTI Floater Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.36,5.54,
+641,Invesco,Invesco India Credit Risk Fund Direct Growth,Debt,Moderate Risk,2.0,3.87,5.53,3.55
+642,Mirae,Mirae Asset Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,2.0,2.92,5.53,7.08
+643,Canara,Canara Robeco Gilt Fund Direct Growth,Debt,Moderate Risk,3.0,3.67,5.52,6.67
+644,IDFC,IDFC Regular Savings Fund Direct Plan Growth,Hybrid,Moderate Risk,2.0,0.61,5.51,5.48
+645,Union,Union Corporate Bond Fund Direct Growth,Debt,Moderate Risk,2.0,3.13,5.51,
+646,LIC,LIC MF Govt. Securities Fund Direct Growth,Debt,Moderate Risk,3.0,2.82,5.5,7.47
+647,UTI,UTI Gilt Fund Direct Growth,Debt,Moderate Risk,3.0,3.77,5.49,7.02
+648,IDFC,IDFC Bond Fund Medium Term Plan Direct Growth,Debt,Moderate Risk,2.0,2.83,5.48,6.71
+649,Canara,Canara Robeco Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.8,5.47,6.46
+650,Aditya,Aditya Birla Sun Life MNC Direct Fund Growth,Equity,Very High Risk,,-6.13,5.47,4.07
+651,Franklin,Franklin India Multi Asset Solution Fund of Funds Direct Growth,Other,Moderately High Risk,1.0,5.52,5.45,4.85
+652,Canara,Canara Robeco Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,3.0,4.1,5.44,6.28
+653,Axis,Axis Treasury Advantage Direct Fund Growth,Debt,Moderate Risk,4.0,4.84,5.44,6.66
+654,HSBC,HSBC Credit Risk Fund Direct Growth,Debt,Moderate Risk,3.0,4.37,5.41,5.14
+655,JM,JM Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.56,5.41,6.14
+656,HSBC,HSBC Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.93,5.39,6.74
+657,LIC,LIC MF Savings Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.53,5.38,5.59
+658,HSBC,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund Direct Growth,Other,Very High Risk,,-5.38,5.38,6.12
+659,Aditya,Aditya Birla Sun Life Savings Direct Growth,Debt,Moderate Risk,4.0,5.04,5.36,6.49
+660,SBI,SBI Magnum Constant Maturity Fund Direct Growth,Debt,Moderate Risk,,2.7,5.35,7.67
+661,HSBC,HSBC Low Duration Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.77,5.32,5.78
+662,Tata,Tata Treasury Advantage Direct Plan Growth,Debt,Low to Moderate Risk,3.0,4.51,5.27,5.18
+663,HDFC,HDFC Gilt Fund Direct Plan Growth,Debt,Moderate Risk,2.0,3.05,5.27,6.18
+664,HSBC,HSBC Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,2.0,2.25,5.26,6.57
+665,Tata,Tata Money Market Fund Direct Growth,Debt,Moderate Risk,5.0,5.22,5.25,4.76
+666,Baroda,Baroda BNP Paribas Gilt Direct Growth,Debt,Moderate Risk,2.0,3.18,5.24,6.52
+667,LIC,LIC MF Short Term Debt Fund Direct Growth,Debt,Moderate Risk,2.0,3.49,5.23,
+668,Aditya,Aditya Birla Sun Life Money Manager Fund Direct Growth,Debt,Moderate Risk,4.0,5.12,5.23,6.37
+669,Mahindra,Mahindra Manulife Low Duration Fund Direct Growth,Debt,Moderate Risk,3.0,4.74,5.22,6.4
+670,Kotak,Kotak Credit Risk Fund Direct Growth,Debt,High Risk,2.0,2.08,5.2,6.58
+671,SBI,SBI Magnum Low Duration Fund Direct Plan Growth,Debt,Moderate Risk,3.0,4.76,5.2,6.39
+672,HDFC,HDFC Money Market Fund Direct Plan Growth,Debt,Moderate Risk,4.0,5.09,5.2,6.28
+673,LIC,LIC MF Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,3.0,3.86,5.19,6.81
+674,Mirae,Mirae Asset Savings Fund Direct Plan Growth,Debt,Low to Moderate Risk,2.0,4.81,5.18,5.9
+675,IDFC,IDFC Government Securities Fund Constant Maturity Direct Growth,Debt,Moderate Risk,,1.97,5.17,8.27
+676,Tata,Tata Gilt Securities Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.33,5.16,6.44
+677,Invesco,Invesco India Treasury Advantage Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.54,5.16,6.43
+678,IDFC,IDFC Bond Fund Income Plan Direct Growth,Debt,Moderate Risk,2.0,2.16,5.16,6.77
+679,HDFC,HDFC Ultra Short Term Fund Direct Growth,Debt,Moderate Risk,4.0,4.95,5.14,
+680,HDFC,HDFC Income Direct Plan Growth,Debt,Moderate Risk,3.0,3.31,5.12,5.8
+681,Aditya,Aditya Birla Sun Life Retirement Fund The 50s Plan Direct Growth,Solution Oriented,Moderately High Risk,2.0,3.73,5.12,
+682,Axis,Axis Ultra Short Term Fund Direct Growth,Debt,Moderate Risk,4.0,5.21,5.1,
+683,DSP,DSP Corporate Bond Fund Direct Growth,Debt,Moderate Risk,2.0,2.64,5.1,
+684,Tata,Tata Arbitrage Fund Direct Growth,Hybrid,Low Risk,5.0,5.0,5.08,
+685,Axis,Axis Money Market Fund Direct Growth,Debt,Moderate Risk,4.0,5.1,5.08,
+686,Edelweiss,Edelweiss Money Market Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.39,5.04,7.07
+687,IDFC,IDFC Low Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.51,5.03,6.23
+688,Nippon,Nippon India Money Market Fund Direct Growth,Debt,Moderate Risk,5.0,5.25,5.03,6.24
+689,DSP,DSP Low Duration Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.6,5.03,6.36
+690,Indiabulls,Indiabulls Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.64,5.02,
+691,JM,JM Medium to Long Duration Fund Direct Growth,Debt,Moderate Risk,2.0,2.07,5.02,2.91
+692,Invesco,Invesco India Arbitrage Fund Direct Growth,Hybrid,Low Risk,5.0,5.92,5.01,5.63
+693,ICICI,ICICI Prudential Money Market Direct Growth,Debt,Low to Moderate Risk,3.0,5.03,5.01,6.15
+694,UTI,UTI Money Market Fund Direct Growth,Debt,Moderate Risk,4.0,5.14,5.0,6.18
+695,SBI,SBI Savings Fund Direct Growth,Debt,Moderate Risk,3.0,5.0,4.99,6.21
+696,Edelweiss,Edelweiss Arbitrage Fund Direct Growth,Hybrid,Low Risk,5.0,5.2,4.99,5.73
+697,Indiabulls,Indiabulls Short Term Fund Direct Growth,Debt,Low to Moderate Risk,2.0,3.77,4.96,5.94
+698,Kotak,Kotak Savings Fund Direct Growth,Debt,Moderate Risk,3.0,5.0,4.94,6.18
+699,Mahindra,Mahindra Manulife Ultra Short Term Fund Direct Growth,Debt,Moderately Low Risk,4.0,4.96,4.93,
+700,PGIM,PGIM India Ultra Short Duration Direct Growth,Debt,Low to Moderate Risk,3.0,5.06,4.92,7.29
+701,Baroda,Baroda BNP Paribas Corporate Bond Fund Direct Growth,Debt,Moderate Risk,2.0,2.46,4.92,4.39
+702,Invesco,Invesco India Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,1.0,2.16,4.89,6.49
+703,Quant,Quant Liquid Direct Plan Growth,Debt,Low to Moderate Risk,5.0,5.16,4.88,5.88
+704,Kotak,Kotak Equity Arbitrage Fund Direct Growth,Hybrid,Low Risk,4.0,5.23,4.88,5.61
+705,Nippon,Nippon India Arbitrage Fund Direct Growth,Hybrid,Low Risk,4.0,5.03,4.86,5.75
+706,IDBI,IDBI Ultra Short Term Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.96,4.85,5.91
+707,Tata,Tata Ultra Short Term Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.05,4.84,
+708,Franklin,Franklin India Savings Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.76,4.84,6.15
+709,Kotak,Kotak Money Market Fund Direct Growth,Debt,Moderate Risk,3.0,5.1,4.83,6.05
+710,Taurus,Taurus Liquid Fund Super Institutional Direct Growth,Debt,Low Risk,1.0,3.24,4.81,4.59
+711,Axis,Axis Arbitrage Fund Direct Growth,Hybrid,Low Risk,4.0,5.04,4.81,5.59
+712,Franklin,Franklin India Government Securities Fund Direct Plan Growth,Debt,Moderate Risk,2.0,3.49,4.8,5.81
+713,Sundaram,Sundaram Money Direct Growth,Debt,Low to Moderate Risk,3.0,3.38,4.79,5.71
+714,ICICI,ICICI Prudential Long Term Bond Fund Direct Plan Growth,Debt,Moderate Risk,,3.65,4.78,6.84
+715,Principal,Principal Retirement Savings Fund Progressive Plan Direct Growth,Solution Oriented,Moderately High Risk,,14.2,4.77,9.65
+716,LIC,LIC MF Bond Fund Direct Growth,Debt,Moderate Risk,2.0,3.85,4.77,6.06
+717,BOI,BOI AXA Ultra Short Duration Fund Direct Bonus,Debt,Low to Moderate Risk,2.0,3.2,4.77,5.97
+718,Invesco,Invesco India Money Market Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.44,4.76,5.84
+719,HSBC,HSBC Arbitrage Fund Direct Growth,Hybrid,Low Risk,4.0,4.68,4.76,5.5
+720,Canara,Canara Robeco Savings Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.48,4.76,5.96
+721,Baroda,Baroda BNP Paribas Ultra Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.14,4.75,
+722,Baroda,Baroda BNP Paribas Medium Duration Fund Direct Growth,Debt,Moderate Risk,2.0,3.77,4.75,3.46
+723,Invesco,Invesco India Ultra Short Term Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.92,4.74,6.04
+724,IDFC,IDFC Money Manager Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.89,4.74,5.71
+725,SBI,SBI Magnum Ultra Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.78,4.74,6.06
+726,IDBI,IDBI Gilt Fund Direct Growth,Debt,Moderate Risk,1.0,2.35,4.73,5.11
+727,Aditya,Aditya Birla Sun Life Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.91,4.7,5.51
+728,DSP,DSP Savings Direct Plan Growth,Debt,Moderate Risk,2.0,4.43,4.69,5.92
+729,Invesco,Invesco India Gilt Fund Direct Growth,Debt,Low to Moderate Risk,1.0,4.27,4.69,6.56
+730,Baroda,Baroda BNP Paribas Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.56,4.68,5.55
+731,UTI,UTI Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.71,4.68,5.48
+732,ICICI,ICICI Prudential Equity Arbitrage Direct Growth,Hybrid,Low Risk,3.0,4.89,4.67,5.48
+733,HSBC,HSBC Medium to Long Duration Fund Direct Growth,Debt,Moderate Risk,2.0,2.25,4.65,6.18
+734,Sundaram,Sundaram Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,2.0,3.57,4.64,6.06
+735,DSP,DSP Ultra Short Fund Direct Plan Growth,Debt,Low to Moderate Risk,3.0,4.95,4.62,5.55
+736,IDFC,IDFC Ultra Short Term Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.74,4.6,
+737,HSBC,HSBC Money Market Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.7,4.59,6.04
+738,IDFC,IDFC Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.91,4.57,5.51
+739,Union,Union Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,1.0,1.64,4.54,5.71
+740,HSBC,HSBC Short Duration(Ex) Fund Direct Growth,Debt,Low to Moderate Risk,1.0,3.01,4.51,4.06
+741,SBI,SBI Arbitrage Opportunities Fund Direct Growth,Hybrid,Low Risk,2.0,5.18,4.5,5.39
+742,HSBC,HSBC Flexi Debt Fund Direct Growth,Debt,Low to Moderate Risk,2.0,1.5,4.5,5.8
+743,Aditya,Aditya Birla Sun Life Retirement Fund The 50s Plus Debt Plan Direct Growth,Solution Oriented,Moderate Risk,1.0,3.15,4.49,
+744,Union,Union Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.46,4.49,
+745,Sundaram,Sundaram Money Market Fund Direct Growth,Debt,Low Risk,2.0,4.92,4.47,
+746,DSP,DSP Arbitrage Fund Direct Growth,Hybrid,Low Risk,3.0,4.8,4.46,
+747,WhiteOak,WhiteOak Capital Ultra Short Term Fund Direct Growth,Debt,Moderately Low Risk,2.0,4.77,4.42,
+748,PGIM,PGIM India Arbitrage Fund Direct Growth,Hybrid,Low Risk,2.0,4.54,4.41,5.18
+749,HDFC,HDFC Arbitrage Fund Wholesale Direct Growth,Hybrid,Low Risk,2.0,4.82,4.4,5.18
+750,Bank,Bank of India Ultra Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.73,4.38,5.72
+751,LIC,LIC MF Arbitrage Fund Direct Growth,Hybrid,Low Risk,2.0,5.07,4.37,
+752,IDBI,IDBI Liquid Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.11,4.33,5.43
+753,Mahindra,Mahindra Manulife Liquid Fund Direct Growth,Debt,Low to Moderate Risk,5.0,5.17,4.29,5.42
+754,Nippon,Nippon India Credit Risk Fund Direct Growth,Debt,High Risk,2.0,4.78,4.28,4.43
+755,Edelweiss,Edelweiss Liquid Direct Growth,Debt,Low to Moderate Risk,4.0,5.1,4.28,5.41
+756,Canara,Canara Robeco Ultra Short Term Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.66,4.27,5.32
+757,Union,Union Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.14,4.27,4.58
+758,Aditya,Aditya Birla Sun Life Liquid Fund Direct Growth,Debt,Moderately High Risk,4.0,5.14,4.26,5.39
+759,LIC,LIC MF Liquid Fund Direct Growth,Debt,Moderate Risk,3.0,5.07,4.25,5.35
+760,Baroda,Baroda BNP Paribas Liquid Direct Fund Growth,Debt,Moderate Risk,5.0,5.18,4.24,5.38
+761,Nippon,Nippon India Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.11,4.24,5.38
+762,Franklin,Franklin India Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.11,4.24,5.41
+763,PGIM,PGIM India Liquid Fund Direct Plan Growth,Debt,Low to Moderate Risk,4.0,5.12,4.24,5.38
+764,Tata,Tata Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.08,4.24,5.35
+765,Axis,Axis Liquid Direct Fund Growth,Debt,Low to Moderate Risk,4.0,5.14,4.24,5.36
+766,Mirae,Mirae Asset Cash Management Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.13,4.23,5.33
+767,UTI,UTI Liquid Cash Direct Growth,Debt,Moderate Risk,4.0,5.12,4.22,5.34
+768,ICICI,ICICI Prudential Liquid Fund Direct Plan Growth,Debt,Moderate Risk,2.0,5.05,4.22,5.33
+769,Sundaram,Sundaram Liquid Direct Growth,Debt,Low to Moderate Risk,4.0,5.15,4.22,5.14
+770,Taurus,Taurus Short Term Income Fund Direct Growth,Debt,Moderately Low Risk,1.0,9.35,4.21,6.49
+771,Bank,Bank of India Liquid Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.18,4.2,5.3
+772,DSP,DSP Liquidity Direct Growth,Debt,Low to Moderate Risk,3.0,5.11,4.19,5.31
+773,SBI,SBI Liquid Fund Direct Plan Growth,Debt,Moderate Risk,3.0,5.07,4.19,5.29
+774,DSP,DSP 10Y G Sec Fund Direct Growth,Debt,Moderate Risk,,1.42,4.17,6.05
+775,HDFC,HDFC Liquid Direct Plan Growth,Debt,Low to Moderate Risk,2.0,5.07,4.16,5.26
+776,Kotak,Kotak Liquid Direct Growth,Debt,Moderate Risk,3.0,5.06,4.16,5.26
+777,JM,JM Liquid Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.11,4.15,5.29
+778,HSBC,HSBC Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.13,4.15,5.31
+779,ICICI,ICICI Prudential Global Advantage Fund (FOF) Direct Growth,Other,High Risk,,-4.32,4.15,
+780,Invesco,Invesco India Liquid Fund Direct Growth,Debt,Low to Moderate Risk,3.0,5.1,4.15,5.27
+781,IDFC,IDFC Cash Direct Plan Growth,Debt,Low to Moderate Risk,3.0,5.1,4.12,5.2
+782,Navi,Navi Liquid Fund Super Institutional Plan Direct Growth,Debt,Moderate Risk,5.0,5.28,4.12,5.21
+783,LIC,LIC MF Ultra Short Term Fund Direct Growth,Debt,Moderately Low Risk,1.0,4.67,4.12,
+784,PGIM,PGIM India Credit Risk Fund Direct Growth,Debt,Low to Moderate Risk,2.0,9.6,4.08,5.31
+785,HSBC,HSBC Low Duration Fund(Ex) Direct Growth,Debt,Low to Moderate Risk,1.0,4.02,4.06,3.51
+786,Mahindra,Mahindra Manulife Dynamic Bond Yojana Direct Growth,Debt,Moderate Risk,3.0,2.71,4.04,
+787,Indiabulls,Indiabulls Liquid Direct Fund Growth,Debt,Moderate Risk,1.0,4.9,3.98,5.17
+788,Canara,Canara Robeco Liquid Direct Plan Growth,Debt,Low to Moderate Risk,2.0,5.11,3.98,5.12
+789,Baroda,Baroda BNP Paribas Money Market Fund Direct Growth,Debt,Low to Moderate Risk,1.0,4.54,3.97,
+790,Navi,Navi Ultra Short Term Fund Super Institutional Plan Direct Growth,Debt,Low to Moderate Risk,1.0,3.0,3.97,5.28
+791,DSP,DSP World Agriculture Direct Plan Growth,Other,Very High Risk,,-7.05,3.94,4.17
+792,Quantum,Quantum Liquid Fund Direct Growth,Debt,Low Risk,2.0,4.87,3.88,4.84
+793,Parag,Parag Parikh Liquid Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.82,3.88,
+794,Mirae,Mirae Asset Overnight Fund Direct Growth,Debt,Low Risk,5.0,4.91,3.87,
+795,PGIM,PGIM India Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.88,3.87,
+796,Nippon,Nippon India Hybrid Bond Fund Direct Growth,Hybrid,High Risk,1.0,5.25,3.85,3.03
+797,Sundaram,Sundaram Medium Term Bond Fund Direct Growth,Debt,Moderate Risk,1.0,2.32,3.84,5.31
+798,DSP,DSP Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.89,3.84,
+799,HSBC,HSBC Overnight Fund Direct Growth,Debt,Low Risk,5.0,4.9,3.84,
+800,Axis,Axis Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.91,3.82,
+801,Mahindra,Mahindra Manulife Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.9,3.82,
+802,Edelweiss,Edelweiss Overnight Fund Direct Growth,Debt,Low Risk,2.0,4.79,3.82,
+803,LIC,LIC MF Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.9,3.81,
+804,Baroda,Baroda BNP Paribas Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.87,3.81,
+805,Nippon,Nippon India Overnight Fund Direct Growth,Debt,Low Risk,4.0,4.9,3.81,
+806,Aditya,Aditya Birla Sun Life Overnight Fund Direct Growth,Debt,Low to Moderate Risk,4.0,4.87,3.8,
+807,IIFL,IIFL Liquid Fund Direct Growth,Debt,Moderate Risk,1.0,4.97,3.8,4.82
+808,JM,JM Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.85,3.8,
+809,Canara,Canara Robeco Overnight Fund Direct Growth,Debt,Low Risk,2.0,4.86,3.8,
+810,UTI,UTI Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.87,3.8,4.6
+811,Tata,Tata Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.87,3.79,
+812,WhiteOak,WhiteOak Capital Liquid Fund Direct Growth,Debt,Low to Moderate Risk,1.0,4.78,3.78,
+813,ITI,ITI Liquid Fund Direct Growth,Debt,Low Risk,2.0,4.98,3.78,
+814,Kotak,Kotak Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.88,3.78,
+815,Sundaram,Sundaram Overnight Fund Direct Growth,Debt,Low Risk,2.0,4.85,3.78,
+816,SBI,SBI Overnight Fund Direct Growth,Debt,Low Risk,2.0,4.85,3.77,4.64
+817,ICICI,ICICI Prudential Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.86,3.77,
+818,Union,Union Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.86,3.77,
+819,IDFC,IDFC Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.88,3.77,
+820,Motilal,Motilal Oswal Liquid Fund Direct Growth,Debt,Low to Moderate Risk,1.0,4.78,3.76,
+821,Invesco,Invesco India Overnight Fund Direct Growth,Debt,Low Risk,3.0,4.86,3.76,
+822,UTI,UTI Medium Term Fund Direct Growth,Debt,Moderate Risk,2.0,3.38,3.75,4.69
+823,HDFC,HDFC Overnight Fund Direct Plan Growth,Debt,Low Risk,2.0,4.83,3.75,4.6
+824,ITI,ITI Overnight Fund Direct Growth,Debt,Low Risk,1.0,4.77,3.72,
+825,Franklin,Franklin India Overnight Fund Direct Growth,Debt,Low Risk,2.0,4.82,3.72,
+826,Principal,Principal Retirement Savings Fund Conservative Plan Direct Growth,Solution Oriented,Moderately High Risk,,6.05,3.7,6.09
+827,Indiabulls,Indiabulls Overnight Fund Direct Growth,Debt,Low Risk,1.0,4.72,3.69,
+828,JM,JM Short Term Plan Direct Growth,Debt,Moderate Risk,2.0,4.45,3.67,5.61
+829,WhiteOak,WhiteOak Capital Overnight Fund Direct Growth,Debt,Low Risk,1.0,4.51,3.63,
+830,JM,JM Arbitrage Fund Direct Growth,Hybrid,Low Risk,1.0,4.75,3.61,4.47
+831,Nippon,Nippon India Equity Savings Fund Direct Growth,Hybrid,Moderate Risk,1.0,4.16,3.6,0.78
+832,Taurus,Taurus Dynamic Income Fund Direct Growth,Debt,Moderate Risk,1.0,9.64,3.53,4.36
+833,HSBC,HSBC Global Emerging Markets Direct Plan Growth,Other,Very High Risk,,-10.11,3.52,3.64
+834,ITI,ITI Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,,-0.22,3.52,
+835,Principal,Principal Dynamic Bond Fund Direct Growth,Debt,Moderate Risk,2.0,7.81,3.47,6.16
+836,Bank,Bank of India Arbitrage Fund Direct Growth,Hybrid,Low Risk,1.0,3.6,3.4,
+837,Indiabulls,Indiabulls Arbitrage Fund Direct Growth,Hybrid,Low Risk,2.0,3.53,3.39,4.56
+838,ITI,ITI Arbitrage Fund Direct Growth,Hybrid,Moderately Low Risk,1.0,3.28,3.37,
+839,Baroda,Baroda Dynamic Bond Direct Growth,Debt,Moderate Risk,1.0,4.29,3.17,4.61
+840,UTI,UTI Focussed Equity Fund Series I (2195 Days) Direct Growth,Equity,Moderately High Risk,,14.03,2.93,8.87
+841,Nippon,Nippon India Japan Equity Fund Direct Growth,Equity,Very High Risk,,-9.06,2.59,3.94
+842,Franklin,Franklin India Life Stage FoF The 50s Plus Direct Plan Growth,Other,Moderate Risk,1.0,5.48,1.61,3.06
+843,UTI,UTI Credit Risk Fund Direct Growth,Debt,Moderately High Risk,1.0,4.93,1.32,-0.89
+844,Edelweiss,Edelweiss Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,1.0,-0.73,0.85,3.32
+845,Edelweiss,Edelweiss Emerging Markets Opportunities Equity Offshore Fund Direct Growth,Other,Very High Risk,,-12.09,0.71,3.1
+846,Franklin,Franklin India Feeder Templeton European Opportunities Fund Direct Growth,Other,Very High Risk,,4.64,-0.44,1.28
+847,Aditya,Aditya Birla Sun Life Global Excellence Equity FoF Retail Direct Growth,Other,Very High Risk,,-9.41,-0.49,4.42
+848,Nippon,Nippon India Strategic Debt Fund Direct Growth,Debt,Very High Risk,2.0,3.0,-2.33,-0.84
+849,PGIM,PGIM India Emerging Markets Equity Fund Direct Growth,Other,Very High Risk,,-25.08,-5.82,-2.27
+850,Baroda,Baroda Treasury Advantage Direct Fund Growth,Debt,Low to Moderate Risk,1.0,3.96,-9.24,-2.95
+851,HSBC,HSBC Brazil Direct Plan Growth,Other,Very High Risk,,7.89,-11.87,-3.47
+852,Mirae,Mirae Asset S&P 500 Top 50 ETF FoF Direct Growth,Other,Very High Risk,,-10.99,,
+853,Mirae,Mirae Asset NYSE FANG+ ETF FoF Direct Growth,Other,Very High Risk,,-36.06,,
+854,Axis,Axis CRISIL IBX 50:50 Gilt Plus SDL Jun 2028 Index Fund Direct Growth,Other,Moderate Risk,,,,
+855,ICICI,ICICI Prudential Strategic Metal and Energy Equity FoF Direct Growth,Other,Very High Risk,,,,
+856,Axis,Axis Global Innovation FoF Direct Growth,Other,Very High Risk,,,,
+857,Axis,Axis Global Equity Alpha FoF Direct Growth,Other,Very High Risk,,17.19,,
+858,Sundaram,Sundaram Equity Fund Direct Growth,Equity,Very High Risk,,41.42,,
+859,Principal,Principal Midcap Fund Direct Growth,Equity,Moderately High Risk,,49.1,,
+860,SBI,SBI Fixed Maturity Plan Series 58 (1842 Days) Direct Growth,Debt,Moderate Risk,,,,
+861,Kotak,Kotak Nifty SDL Plus AAA PSU Bond Jul 2033 60:40 Index Fund Direct Growth,Other,Moderate Risk,,,,
+862,Tata,Tata Multi Asset Opportunities Fund Direct Growth,Hybrid,Very High Risk,,6.63,,
+863,ICICI,ICICI Prudential Passive Multi Asset FoF Direct Growth,Other,High Risk,,8.32,,
+864,Aditya,Aditya Birla Sun Life Silver ETF FoF Direct Growth,Other,Very High Risk,,,,
+865,DSP,DSP Global Innovation FoF Direct Growth,Other,Very High Risk,,,,
+866,Kotak,Kotak Global Innovation FoF Direct Growth,Other,Very High Risk,,-13.74,,
+867,Mirae,Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+868,IDFC,IDFC Emerging Businesses Fund Direct Growth,Equity,Very High Risk,,-5.59,,
+869,Mirae,Mirae Asset Banking and PSU Debt Fund Direct Growth,Debt,Low to Moderate Risk,3.0,3.44,,
+870,ICICI,ICICI Prudential ESG Fund Direct Growth,Equity,Very High Risk,,1.3,,
+871,Baroda,Baroda BNP Paribas Banking & PSU Bond Fund Direct Growth,Debt,Moderate Risk,2.0,2.66,,
+872,Mirae,Mirae Asset Nifty 100 ESG Sector Leaders FoF Direct Growth,Other,Very High Risk,,1.05,,
+873,Nippon,Nippon India Passive Flexicap FoF Direct Growth,Other,Very High Risk,,2.15,,
+874,ICICI,ICICI Prudential Business Cycle Fund Direct Growth,Equity,Very High Risk,,8.73,,
+875,Union,Union Midcap Fund Direct Growth,Equity,Very High Risk,,-1.72,,
+876,BHARAT,BHARAT Bond FOF April 2031 Direct Growth,Other,Moderate Risk,,3.89,,
+877,Mahindra,Mahindra Manulife Arbitrage Yojana Direct Growth,Hybrid,Low Risk,5.0,4.14,,
+878,Invesco,Invesco India Focused 20 Equity Fund Direct Growth,Equity,Very High Risk,,-7.11,,
+879,Nippon,Nippon India Nifty Smallcap 250 Index Fund Direct Growth,Other,Very High Risk,,-7.23,,
+880,ITI,ITI Small Cap Fund Direct Growth,Equity,Very High Risk,,-3.34,,
+881,Mirae,Mirae Asset Equity Allocator FoF Direct Growth,Other,Very High Risk,,2.74,,
+882,DSP,DSP Value Fund Direct Growth,Equity,Very High Risk,,1.62,,
+883,ICICI,ICICI Prudential Quant Fund Direct Growth,Equity,Very High Risk,,1.86,,
+884,Aditya,Aditya Birla Sun Life ESG Fund Direct Growth,Equity,Very High Risk,,-10.51,,
+885,Navi,Navi Nifty Midcap 150 Index Fund Direct Growth,Other,Very High Risk,,,,
+886,Axis,Axis Nifty Midcap 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+887,UTI,UTI Nifty Midcap 150 Quality 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+888,Invesco,Invesco India Invesco EQQQ NASDAQ 100 ETF FoF Direct Growth,Other,Very High Risk,,,,
+889,Quantum,Quantum Nifty 50 ETF FoF Direct Growth,Other,Very High Risk,,,,
+890,Union,Union Gilt Fund Direct Growth,Debt,Moderate Risk,,,,
+891,Quant,Quant Large Cap Fund Direct Growth,Equity,Very High Risk,,,,
+892,IDFC,IDFC Midcap Fund Direct Growth,Equity,Very High Risk,,,,
+893,Canara,Canara Robeco Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,,,,
+894,Franklin,Franklin India Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,,,,
+895,IDFC,IDFC Nifty200 Momentum 30 Index Fund Direct Growth,Other,Very High Risk,,,,
+896,ICICI,ICICI Prudential PSU Equity Fund Direct Growth,Equity,Very High Risk,,,,
+897,SBI,SBI Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,,7.46,,
+898,ICICI,ICICI Prudential Nifty Smallcap 250 Index Fund Direct Growth,Other,Very High Risk,,-6.92,,
+899,Quant,Quant Value Fund Direct Growth,Equity,Very High Risk,,13.68,,
+900,Union,Union Gilt Fund Direct Growth,Debt,Moderate Risk,,,,
+901,Quant,Quant Large Cap Fund Direct Growth,Equity,Very High Risk,,,,
+902,IDFC,IDFC Midcap Fund Direct Growth,Equity,Very High Risk,,,,
+903,Canara,Canara Robeco Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,,,,
+904,Franklin,Franklin India Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,,,,
+905,IDFC,IDFC Nifty200 Momentum 30 Index Fund Direct Growth,Other,Very High Risk,,,,
+906,ICICI,ICICI Prudential PSU Equity Fund Direct Growth,Equity,Very High Risk,,,,
+907,SBI,SBI Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,,7.46,,
+908,ICICI,ICICI Prudential Nifty Smallcap 250 Index Fund Direct Growth,Other,Very High Risk,,-6.92,,
+909,Quant,Quant Value Fund Direct Growth,Equity,Very High Risk,,13.68,,
+910,Motilal,Motilal Oswal MSCI EAFE Top 100 Select Index Fund Direct Growth,Other,Very High Risk,,4.52,,
+911,Axis,Axis Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+912,Nippon,Nippon India Silver ETF FoF Direct Growth,Other,Very High Risk,,,,
+913,Mirae,Mirae Asset Nifty India Manufacturing ETF FoF Direct Growth,Other,Very High Risk,,,,
+914,Motilal,Motilal Oswal Nifty 200 Momentum 30 Index Fund Direct Growth,Other,Very High Risk,,,,
+915,ICICI,ICICI Prudential S&P BSE 500 ETF FOF Direct Growth,Other,Very High Risk,,2.83,,
+916,Navi,Navi Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,0.43,,
+917,Aditya,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund Direct Growth,Other,Moderate Risk,,,,
+918,TRUSTMF,TRUSTMF Overnight Fund Direct Growth,Debt,Low Risk,,4.86,,
+919,ITI,ITI Conservative Hybrid Fund Direct Growth,Hybrid,Moderate Risk,,,,
+920,Navi,Navi Nifty Midcap 150 Index Fund Direct Growth,Other,Very High Risk,,,,
+921,Axis,Axis Nifty Midcap 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+922,UTI,UTI Nifty Midcap 150 Quality 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+923,Invesco,Invesco India Invesco EQQQ NASDAQ 100 ETF FoF Direct Growth,Other,Very High Risk,,,,
+924,Quantum,Quantum Nifty 50 ETF FoF Direct Growth,Other,Very High Risk,,,,
+925,Union,Union Gilt Fund Direct Growth,Debt,Moderate Risk,,,,
+926,Quant,Quant Large Cap Fund Direct Growth,Equity,Very High Risk,,,,
+927,IDFC,IDFC Midcap Fund Direct Growth,Equity,Very High Risk,,,,
+928,Canara,Canara Robeco Banking and PSU Debt Fund Direct Growth,Debt,Moderate Risk,,,,
+929,Franklin,Franklin India Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,,,,
+930,Union,Union Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,,0.0,,
+931,Mirae,Mirae Asset Banking and Financial Services Fund Direct Growth,Equity,Very High Risk,,10.15,,
+932,TRUSTMF,TRUSTMF Banking & PSU Debt Fund Direct Growth,Debt,Moderate Risk,2.0,2.88,,
+933,SBI,SBI Retirement Benefit Fund Aggressive Hybrid Plan Direct Growth,Solution Oriented,Very High Risk,,5.37,,
+934,SBI,SBI Retirement Benefit Fund Conservative Hybrid Plan Direct Growth,Solution Oriented,High Risk,,4.93,,
+935,IDFC,IDFC Floating Rate Fund Direct Growth,Debt,Low to Moderate Risk,3.0,4.46,,
+936,ITI,ITI Mid Cap Fund Direct Growth,Equity,Very High Risk,,3.62,,
+937,Aditya,Aditya Birla Sun Life Multi Cap Fund Direct Growth,Equity,Very High Risk,,-0.08,,
+938,SBI,SBI Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,-0.02,,
+939,Parag,Parag Parikh Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,,8.07,,
+940,Nippon,Nippon India Asset Allocator FoF Direct Growth,Other,Very High Risk,,7.76,,
+941,Mahindra,Mahindra Manulife Short Term Fund Direct Growth,Debt,Moderate Risk,3.0,4.05,,
+942,Edelweiss,Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund Direct Growth,Other,Low to Moderate Risk,,3.04,,
+943,IDFC,IDFC CRISIL IBX Gilt April 2028 Index Fund Direct Growth,Other,Moderate Risk,,3.19,,
+944,Mirae,Mirae Asset Ultra Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.02,,
+945,HDFC,HDFC Asset Allocator FoF Direct Growth,Other,High Risk,,10.18,,
+946,Canara,Canara Robeco Focused Equity Fund Direct Growth,Equity,Very High Risk,,1.89,,
+947,Aditya,Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund Direct Growth,Other,Very High Risk,,6.1,,
+948,Tata,Tata Floating Rate Fund Direct Growth,Debt,Low to Moderate Risk,,4.85,,
+949,Invesco,Invesco India Medium Duration Fund Direct Growth,Debt,Moderate Risk,,3.33,,
+950,PGIM,PGIM India Small Cap Fund Direct Growth,Equity,Very High Risk,,-6.56,,
+951,Edelweiss,Edelweiss Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+952,Mahindra,Mahindra Manulife Small Cap Fund Direct Growth,Equity,Very High Risk,,,,
+953,IDFC,IDFC CRISIL IBX 90:10 SDL Plus Gilt September 2027 Index Fund Direct Growth,Other,Moderate Risk,,,,
+954,HSBC,HSBC Nifty 50 Index Fund Direct Growth,Other,Very High Risk,,3.85,,
+955,HSBC,HSBC Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,-0.35,,
+956,SBI,SBI Nifty Smallcap 250 Index Fund Direct Growth,Other,Very High Risk,,,,
+957,Tata,Tata CRISIL IBX Gilt Index April 2026 Index Fund Direct Growth,Other,Moderate Risk,,,,
+958,Aditya,Aditya Birla Sun Life CRISIL IBX Gilt April 2026 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+959,Aditya,Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund Direct Growth,Other,Moderately High Risk,,,,
+960,Tata,Tata CRISIL IBX Gilt Index April 2026 Index Fund Direct Growth,Other,Moderate Risk,,,,
+961,Aditya,Aditya Birla Sun Life CRISIL IBX Gilt April 2026 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+962,Aditya,Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund Direct Growth,Other,Moderately High Risk,,,,
+963,Edelweiss,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index Fund Direct Growth,Other,Moderate Risk,,,,
+964,UTI,UTI Gold ETF FoF Direct Growth,Other,High Risk,,,,
+965,Nippon,Nippon India Nifty SDL Plus G Sec Jun 2028 Maturity 70:30 Index Fund Direct Growth,Other,Moderate Risk,,,,
+966,HDFC,HDFC Business Cycle Fund Direct Growth,Equity,Very High Risk,,,,
+967,Edelweiss,Edelweiss Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,,,
+968,Mahindra,Mahindra Manulife Small Cap Fund Direct Growth,Equity,Very High Risk,,,,
+969,IDFC,IDFC CRISIL IBX 90:10 SDL Plus Gilt September 2027 Index Fund Direct Growth,Other,Moderate Risk,,,,
+970,HSBC,HSBC Nifty 50 Index Fund Direct Growth,Other,Very High Risk,,3.85,,
+971,HSBC,HSBC Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,,-0.35,,
+972,Baroda,Baroda BNP Paribas Multi Asset Fund Direct Growth,Hybrid,Very High Risk,,,,
+973,Kotak,Kotak Nifty SDL Jul 2026 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+974,SBI,SBI International Access US Equity FoF Direct Growth,Other,Very High Risk,,,,
+975,SBI,SBI International Access US Equity FoF Direct Growth,Other,Very High Risk,,,,
+976,SBI,SBI Fixed Maturity Plan Series 5 (92 Days) Direct Growth,Debt,Moderately Low Risk,,,,
+977,HSBC,HSBC Mid Cap Fund Direct Growth,Equity,Very High Risk,,-3.03,,
+978,Axis,Axis Fixed Term Plan Series 109 (111 Days) Direct Growth,Debt,Moderate Risk,,,,
+979,HSBC,HSBC Global Equity Climate Change FoF Direct Growth,Other,Very High Risk,,-12.26,,
+980,IDFC,IDFC US Equity FoF Direct Growth,Other,Very High Risk,,-10.61,,
+981,Edelweiss,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Growth,Other,Very High Risk,,-0.01,,
+982,Kotak,Kotak Nasdaq 100 FOF Direct Growth,Other,Very High Risk,,-17.73,,
+983,Kotak,Kotak International REIT FOF Direct Growth,Other,Very High Risk,,-0.3,,
+984,PGIM,PGIM India Global Select Real Estate Securities FoF Direct Growth,Other,Very High Risk,,-9.81,,
+985,Navi,Navi US Total Stock Market FoF Direct Growth,Other,Very High Risk,,,,
+986,Mirae,Mirae Asset Global Electric & Autonomous Vehicles ETFs FoF Direct Growth,Other,Very High Risk,,,,
+987,Mahindra,Mahindra Manulife Asia Pacific REITs FoF Direct Growth,Other,Very High Risk,2.0,-1.54,,
+988,Aditya,Aditya Birla Sun Life NASDAQ 100 FOF Direct Growth,Other,Very High Risk,,-17.18,,
+989,BHARAT,BHARAT Bond ETF FOF April 2033 Direct Growth,Other,Moderate Risk,,,,
+990,Quant,Quant Overnight Fund Direct Growth,Debt,Low Risk,,,,
+991,Aditya,Aditya Birla Sun Life Multi Index FoF Direct Growth,Other,Moderately High Risk,,,,
+992,Samco,Samco Overnight Fund Direct Growth,Debt,Low Risk,,,,
+993,TRUSTMF,TRUSTMF Corporate Bond Fund Direct Growth,Debt,Moderate Risk,,,,
+994,Axis,Axis ESG Equity Fund Direct Growth,Equity,Very High Risk,,-8.23,,
+995,Motilal,Motilal Oswal Multi Asset Fund Direct Growth,Hybrid,High Risk,,2.77,,
+996,Mahindra,Mahindra Manulife Focused Equity Yojana Direct Growth,Equity,Very High Risk,4.0,8.3,,
+997,Axis,Axis Special Situations Fund Direct Growth,Equity,Very High Risk,,-11.12,,
+998,UTI,UTI Nifty200 Momentum 30 Index Fund Direct Growth,Other,Very High Risk,,-4.55,,
+999,Mirae,Mirae Asset Corporate Bond Fund Direct Growth,Debt,Moderate Risk,3.0,3.5,,
+1000,DSP,DSP Floater Fund Direct Growth,Debt,Low to Moderate Risk,1.0,3.77,,
+1001,IDFC,IDFC CRISIL IBX Gilt June 2027 Index Fund Direct Growth,Other,Moderate Risk,,2.95,,
+1002,Quant,Quant Quantamental Fund Direct Growth,Equity,Very High Risk,,25.56,,
+1003,ITI,ITI Ultra Short Duration Fund Direct Growth,Debt,Low to Moderate Risk,2.0,4.85,,
+1004,PGIM,PGIM India Money Market Fund Direct Growth,Debt,Low to Moderate Risk,4.0,5.15,,
+1005,Aditya,Aditya Birla Sun Life Special Opportunities Fund Direct Growth,Equity,Very High Risk,,-1.31,,
+1006,UTI,UTI Small Cap Fund Direct Growth,Equity,Very High Risk,,-0.39,,
+1007,SBI,SBI Retirement Benefit Fund Aggressive Plan Direct Growth,Solution Oriented,Very High Risk,,6.1,,
+1008,Nippon,Nippon India Nifty 50 Value 20 Index Fund Direct Growth,Other,Very High Risk,,4.9,,
+1009,Motilal,Motilal Oswal Asset Allocation Passive FoF Aggressive Direct Growth,Other,Very High Risk,,3.01,,
+1010,ICICI,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF Direct Growth,Other,Very High Risk,,3.1,,
+1011,Bank,Bank of India Bluechip Fund Direct Growth,Equity,Very High Risk,,-2.25,,
+1012,TRUSTMF,TRUSTMF Short Term Fund Direct Growth,Debt,Low to Moderate Risk,,4.09,,
+1013,Tata,Tata Business Cycle Fund Direct Growth,Equity,Very High Risk,,11.6,,
+1014,HDFC,HDFC NIFTY50 Equal Weight Index Fund Direct Growth,Other,Very High Risk,,6.28,,
+1015,Canara,Canara Robeco Value Fund Direct Growth,Equity,Very High Risk,,11.17,,
+1016,TRUSTMF,TRUSTMF Liquid Fund Direct Growth,Debt,Low to Moderate Risk,2.0,5.11,,
+1017,Motilal,Motilal Oswal 5 Year G Sec FoF Direct Growth,Other,Moderate Risk,,2.93,,
+1018,Edelweiss,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Direct Growth,Other,Moderate Risk,,2.93,,
+1019,ITI,ITI Pharma and Healthcare Fund Direct Growth,Equity,Very High Risk,,-2.25,,
+1020,IDFC,IDFC Multi Cap Fund Direct Growth,Equity,Very High Risk,,8.06,,
+1021,Aditya,Aditya Birla Sun Life Business Cycle Fund Direct Growth,Equity,Very High Risk,,4.08,,
+1022,Axis,Axis Multicap Fund Direct Growth,Equity,Very High Risk,,0.0,,
+1023,Axis,Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+1024,Samco,Samco Flexi Cap Fund Direct Growth,Equity,Very High Risk,,,,
+1025,UTI,UTI S&P BSE Sensex Index Fund Direct Growth,Other,Very High Risk,,,,
+1026,Invesco,Invesco India Flexi Cap Fund Direct Growth,Equity,Very High Risk,,,,
+1027,Axis,Axis Equity ETFs FoF Direct Growth,Other,Very High Risk,,,,
+1028,HDFC,HDFC Nifty 100 Index Fund Direct Growth,Other,Very High Risk,,,,
+1029,SBI,SBI Multicap Fund Direct Growth,Equity,Very High Risk,,,,
+1030,Tata,Tata Nifty India Digital ETF FoF Direct Growth,Other,Very High Risk,,,,
+1031,Motilal,Motilal Oswal S&P BSE Enhanced Value Index Fund Direct Growth,Other,Very High Risk,,,,
+1032,Union,Union Retirement Fund Direct Growth,Solution Oriented,Very High Risk,,,,
+1033,Edelweiss,Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct Growth,Other,Very High Risk,,2.78,,
+1034,SBI,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+1035,ICICI,ICICI Prudential Silver ETF FoF Direct Growth,Other,Very High Risk,,,,
+1036,Navi,Navi Nifty Bank Index Fund Direct Growth,Other,Very High Risk,,,,
+1037,ICICI,ICICI Prudential Nifty Bank Index Fund Direct Growth,Other,Very High Risk,,,,
+1038,Aditya,Aditya Birla Sun Life CRISIL IBX AAA Jun 2023 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+1039,UTI,UTI S&P BSE Low Volatility Index Fund Direct Growth,Other,Very High Risk,,,,
+1040,Edelweiss,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+1041,ICICI,ICICI Prudential Nifty 200 Momentum 30 Index Fund Direct Growth,Other,Very High Risk,,,,
+1042,Aditya,Aditya Birla Sun Life Long Duration Fund Direct Growth,Debt,Moderate Risk,,,,
+1043,WhiteOak,WhiteOak Capital Mid Cap Fund Direct Growth,Equity,Very High Risk,,,,
+1044,Tata,Tata Housing Opportunities Fund Direct Growth,Equity,Very High Risk,,,,
+1045,Edelweiss,Edelweiss Gold and Silver ETF FoF Direct Growth,Other,Very High Risk,,,,
+1046,ICICI,ICICI Prudential Nifty50 Equal Weight Index Fund Direct Growth,Other,Very High Risk,,,,
+1047,ICICI,ICICI Prudential Nifty Auto Index Fund Direct Growth,Other,Very High Risk,,,,
+1048,Motilal,Motilal Oswal Gold and Silver ETFs FoF Direct Growth,Other,Very High Risk,,,,
+1049,ICICI,ICICI Prudential Nifty SDL Dec 2028 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1050,ICICI,ICICI Prudential Transportation and Logistics Fund Direct Growth,Equity,Very High Risk,,,,
+1051,HDFC,HDFC Silver ETF FoF Direct Growth,Other,Very High Risk,,,,
+1052,Aditya,Aditya Birla Sun Life CRISIL IBX Gilt Apr 2029 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1053,WhiteOak,WhiteOak Capital Large Cap Fund Direct Growth,Equity,Very High Risk,,,,
+1054,Canara,Canara Robeco Mid Cap Fund Direct Growth,Equity,Very High Risk,,,,
+1055,SBI,SBI CRISIL IBX Gilt Index June 2036 Fund Direct Growth,Other,Moderate Risk,,,,
+1056,IDFC,IDFC Transportation and Logistics Fund Direct Growth,Equity,Very High Risk,,,,
+1057,Mirae,Mirae Asset CRISIL IBX Gilt Index April 2033 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1058,Union,Union Multicap Fund Direct Growth,Equity,Very High Risk,,,,
+1059,Samco,Samco ELSS Tax Saver Fund Direct Growth,Equity,Very High Risk,,,,
+1060,Nippon,Nippon India Nifty G Sec Sep 2027 Maturity Index Fund Direct Growth,Other,Moderate Risk,,,,
+1061,HDFC,HDFC Nifty G Sec Jun 2027 Index Direct Growth,Other,Moderate Risk,,,,
+1062,HDFC,HDFC Nifty G Sec Sep 2032 Index Direct Growth,Other,Moderate Risk,,,,
+1063,IDFC,IDFC CRISIL IBX 90:10 SDL Plus Gilt November 2026 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1064,Tata,Tata Nifty G Sec Dec 2026 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1065,Mirae,Mirae Asset Hang Seng TECH ETF FoF Direct Growth,Other,Very High Risk,,,,
+1066,Axis,Axis Greater China Equity FoF Direct Growth,Other,Very High Risk,,,,
+1067,Tata,Tata Corporate Bond Fund Direct Growth,Debt,Low to Moderate Risk,,,,
+1068,BNP,BNP Paribas Overnight Fund Direct Growth,Debt,Low Risk,3.0,3.25,,
+1069,SBI,SBI Capital Protection Oriented Fund Series A (Plan 8) Direct Growth,Hybrid,Moderate Risk,,7.35,,
+1070,Sundaram,Sundaram Ultra Short Term Fund Direct Growth,Debt,Moderate Risk,3.0,3.69,,
+1071,ICICI,ICICI Prudential India Equity FOF Direct Growth,Other,Very High Risk,,3.94,,
+1072,Axis,Axis All Seasons Debt FoF Direct Growth,Other,Moderate Risk,4.0,4.39,,
+1073,Edelweiss,Edelweiss US Technology Equity FoF Direct Growth,Other,Very High Risk,,-26.28,,
+1074,ICICI,ICICI Prudential NASDAQ 100 Index Fund Direct Growth,Other,Very High Risk,,-14.52,,
+1075,Nippon,Nippon India Taiwan Equity Fund Direct Growth,Equity,Very High Risk,,-25.18,,
+1076,ICICI,ICICI Prudential Housing Opportunities Fund Direct Growth,Equity,Very High Risk,,,,
+1077,Mirae,Mirae Asset Global X Artificial Intelligence & Technology ETF FoF Direct Growth,Other,Very High Risk,,,,
+1078,Shriram,Shriram Overnight Fund Direct Growth,Debt,Low Risk,,,,
+1079,Nippon,Nippon India Multi Asset Fund Direct Growth,Hybrid,Very High Risk,,5.32,,
+1080,Navi,Navi NASDAQ 100 FoF Direct Growth,Other,Very High Risk,,,,
+1081,UTI,UTI Credit Risk Fund Segregated Portfolio 4 Direct Growth,Debt,Moderate Risk,,,,
+1082,Baroda,Baroda BNP Paribas Funds Aqua FoF Direct Growth,Other,Very High Risk,5.0,-2.23,,
+1083,Nippon,Nippon India Nifty AAA PSU Bond Plus SDL Sep 2026 Maturity 50:50 Index Fund Direct Growth,Other,Moderate Risk,,,,
+1084,Aditya,Aditya Birla Sun Life CRISIL IBX 60:40 SDL + AAA PSU Apr 2026 Index Fund Direct Growth,Other,Low to Moderate Risk,,,,
+1085,Axis,Axis NASDAQ 100 FoF Direct Growth,Other,Very High Risk,,,,
+1086,Motilal,Motilal Oswal S&P 500 Index Fund Direct Growth,Other,Very High Risk,,-2.45,,
+1087,ITI,ITI Dynamic Bond Fund Direct Growth,Debt,Low to Moderate Risk,,5.4,,
+1088,ICICI,ICICI Prudential Flexicap Fund Direct Growth,Equity,Very High Risk,,6.82,,
+1089,UTI,UTI Focused Equity Fund Direct Growth,Equity,Very High Risk,,2.01,,
+1090,Kotak,Kotak Multicap Fund Direct Growth,Equity,Very High Risk,,10.84,,
+1091,LIC,LIC MF Balanced Advantage Fund Direct Growth,Hybrid,Moderately High Risk,,6.31,,
+1092,ITI,ITI Banking and Financial Services Fund Direct Growth,Equity,Very High Risk,,11.5,,
+1093,HDFC,HDFC Multi Cap Fund Direct Growth,Equity,Very High Risk,,9.37,,
+1094,ICICI,ICICI Prudential Nifty Midcap 150 Index Fund Direct Growth,Other,Very High Risk,,2.2,,
